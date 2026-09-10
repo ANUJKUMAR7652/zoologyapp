@@ -1,34 +1,16 @@
 {
-  "app_version": 1.0,
-  "subjects": [
+  "classes": [
     {
-      "subjectName": "Zoology Master",
-      "classes": [
+      "className": "Class 11",
+      "chapters": [
         {
-          "className": "Class 11",
-          "chapters": [
-            {
-              "chapterId": "ch_1",
-              "chapterTitle": "Chapter 1: Animal Kingdom (Updated on GitHub)",
-              "languageOptions": {
-                "english": {
-                  "headings": ["Introduction", "Symmetry", "Phylum Porifera"],
-                  "theoryNotes": "Detailed notes in English for competitive exams..."
-                },
-                "hindi": {
-                  "headings": ["परिचय", "सममिति", "संघ पोरीफेरा"],
-                  "theoryNotes": "प्रतियोगी परीक्षाओं के लिए हिंदी में विस्तृत नोट्स..."
-                }
-              },
-              "quizQuestions": [
-                {
-                  "question": "Which animal group has a water vascular system?",
-                  "options": ["Mollusca", "Echinodermata", "Arthropoda"],
-                  "correctIndex": 1
-                }
-              ]
-            }
-          ]
+          "chapterTitle": "Chapter 1: Animal Kingdom Diversity",
+          "headings": [
+            "1. Introduction & Basic Symmetry",
+            "2. Phylum Classification & Features",
+            "3. Organ Systems & Physiology"
+          ],
+          "notes": "Detailed theory notes for animal kingdom..."
         }
       ]
     }
