@@ -1,0 +1,23 @@
+{
+  "classes": [
+    {
+      "className": "Class 11",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Animal Kingdom Diversity",
+          "headings": [
+            "1. Introduction & Basic Symmetry",
+            "2. Phylum Classification & Features",
+            "3. Organ Systems & Physiology"
+          ],
+          "notes": "Detailed theory notes for animal kingdom...",
+          "quiz": {
+            "question": "Which phylum features a water vascular system?",
+            "options": ["Arthropoda", "Echinodermata", "Mollusca"],
+            "correctAnswer": 1
+          }
+        }
+      ]
+    }
+  ]
+}
