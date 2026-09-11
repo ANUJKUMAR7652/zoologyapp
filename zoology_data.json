@@ -16,16 +16,12 @@
           }
         }
       ]
-    }
-  ]
-}
-{
-  "classes": [
+    },
     {
       "className": "Class 1",
       "chapters": [
         {
-          "chapterTitle": "Chapter 1: anuj ",
+          "chapterTitle": "Chapter 1: anuj",
           "notes": "Detailed theory notes for animal kingdom...",
           "headings": [
             "1. Introduction & Basic Symmetry",
@@ -40,4 +36,3 @@
     }
   ]
 }
-
