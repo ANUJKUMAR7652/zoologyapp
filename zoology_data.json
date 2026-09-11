@@ -13,23 +13,27 @@
           "theoryData": {
             "1. Introduction & Basic Symmetry": "This is the detailed theory for Introduction. Har organism ki symmetry alag hoti hai. Radial, Bilateral etc.",
             "2. Phylum Classification & Features": "Here is the detailed theory for Phylum classification..."
-          }
-        }
-      ]
-    },
-    "mcqQuiz": [
+          },
+          "mcqQuiz": [
             {
               "question": "What is the basic unit of classification?",
-              "options": ["Species", "Genus", "Family", "Order"],
+              "options": [
+                "Species",
+                "Genus",
+                "Family",
+                "Order"
+              ],
               "correctAnswer": "Species"
             },
             {
               "question": "True or False: Sponges have bilateral symmetry.",
-              "options": ["True", "False"],
+              "options": [
+                "True",
+                "False"
+              ],
               "correctAnswer": "False"
             }
           ],
-          
           "importantQuestions": [
             {
               "question": "Explain the difference between Radial and Bilateral symmetry.",
@@ -39,7 +43,10 @@
               "question": "Why are animals classified?",
               "answer": "Classification helps in understanding the relationship among different groups of animals and makes their study easier."
             }
-          ],
+          ]
+        }
+      ]
+    },
     {
       "className": "Class 1",
       "chapters": [
@@ -53,22 +60,27 @@
           "theoryData": {
             "1. Introduction & Basic Symmetry": "This is the detailed theory for Introduction. Har organism ki symmetry alag hoti hai. Radial, Bilateral etc.",
             "2. Phylum Classification & Features": "Here is the detailed theory for Phylum classification..."
-          }
-        }
-      ],
-      "mcqQuiz": [
+          },
+          "mcqQuiz": [
             {
               "question": "What is the basic unit of classification?",
-              "options": ["Species", "Genus", "Family", "Order"],
+              "options": [
+                "Species",
+                "Genus",
+                "Family",
+                "Order"
+              ],
               "correctAnswer": "Species"
             },
             {
               "question": "True or False: Sponges have bilateral symmetry.",
-              "options": ["True", "False"],
+              "options": [
+                "True",
+                "False"
+              ],
               "correctAnswer": "False"
             }
           ],
-          
           "importantQuestions": [
             {
               "question": "Explain the difference between Radial and Bilateral symmetry.",
@@ -79,6 +91,8 @@
               "answer": "Classification helps in understanding the relationship among different groups of animals and makes their study easier."
             }
           ]
+        }
+      ]
     }
   ]
 }
