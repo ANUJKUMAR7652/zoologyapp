@@ -10,10 +10,13 @@
             "1. Introduction & Basic Symmetry",
             "2. Phylum Classification & Features"
           ],
-          "theoryData": {
-            "1. Introduction & Basic Symmetry": "This is the detailed theory for Introduction. Har organism ki symmetry alag hoti hai. Radial, Bilateral etc.",
-            "2. Phylum Classification & Features": "Here is the detailed theory for Phylum classification..."
-          },
+         "theoryData": {
+  "1. Introduction & Basic Symmetry": {
+    "en": "Phylum Porifera includes multi-cellular organisms with cellular grade of organization.",
+    "hi": "संघ पोरिफेरा में कोशिकीय स्तर के संगठन वाले बहुकोशिकीय जीव शामिल हैं।",
+    "imageUrl": "https://raw.githubusercontent.com/AnujKumar/ZoologyData/main/images/porifera.png"
+  }
+},
           "mcqQuiz": [
             {
               "question": "What is the basic unit of classification?",
@@ -58,9 +61,12 @@
             "2. Phylum Classification & Features"
           ],
           "theoryData": {
-            "1. Introduction & Basic Symmetry": "This is the detailed theory for Introduction. Har organism ki symmetry alag hoti hai. Radial, Bilateral etc.",
-            "2. Phylum Classification & Features": "Here is the detailed theory for Phylum classification..."
-          },
+  "1. Introduction & Basic Symmetry": {
+    "en": "Phylum Porifera includes multi-cellular organisms with cellular grade of organization.",
+    "hi": "संघ पोरिफेरा में कोशिकीय स्तर के संगठन वाले बहुकोशिकीय जीव शामिल हैं।",
+    "imageUrl": "https://raw.githubusercontent.com/AnujKumar/ZoologyData/main/images/porifera.png"
+  }
+},
           "mcqQuiz": [
             {
               "question": "What is the basic unit of classification?",
