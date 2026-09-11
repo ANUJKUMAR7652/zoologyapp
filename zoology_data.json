@@ -4,13 +4,16 @@
       "className": "Class 11",
       "chapters": [
         {
-          "chapterTitle": "Chapter 1: xxxxxxxxxxxxxxxAnimal Kingdom Diversity",
+          "chapterTitle": "Chapter 1: Animal Kingdom Diversity",
+          "notes": "Detailed theory notes for animal kingdom...",
           "headings": [
             "1. Introduction & Basic Symmetry",
-            "2. Phylum Classification & Features",
-            "3. Organ Systems & Physiology"
+            "2. Phylum Classification & Features"
           ],
-          "notes": "Detailed theory notes for animal kingdom..."
+          "theoryData": {
+            "1. Introduction & Basic Symmetry": "This is the detailed theory for Introduction. Har organism ki symmetry alag hoti hai. Radial, Bilateral etc.",
+            "2. Phylum Classification & Features": "Here is the detailed theory for Phylum classification..."
+          }
         }
       ]
     }
