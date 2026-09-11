@@ -17,6 +17,29 @@
         }
       ]
     },
+    "mcqQuiz": [
+            {
+              "question": "What is the basic unit of classification?",
+              "options": ["Species", "Genus", "Family", "Order"],
+              "correctAnswer": "Species"
+            },
+            {
+              "question": "True or False: Sponges have bilateral symmetry.",
+              "options": ["True", "False"],
+              "correctAnswer": "False"
+            }
+          ],
+          
+          "importantQuestions": [
+            {
+              "question": "Explain the difference between Radial and Bilateral symmetry.",
+              "answer": "Radial symmetry means the animal can be divided into equal halves by any plane passing through the central axis. Bilateral symmetry means division into identical left and right halves in only one plane."
+            },
+            {
+              "question": "Why are animals classified?",
+              "answer": "Classification helps in understanding the relationship among different groups of animals and makes their study easier."
+            }
+          ],
     {
       "className": "Class 1",
       "chapters": [
@@ -32,7 +55,30 @@
             "2. Phylum Classification & Features": "Here is the detailed theory for Phylum classification..."
           }
         }
-      ]
+      ],
+      "mcqQuiz": [
+            {
+              "question": "What is the basic unit of classification?",
+              "options": ["Species", "Genus", "Family", "Order"],
+              "correctAnswer": "Species"
+            },
+            {
+              "question": "True or False: Sponges have bilateral symmetry.",
+              "options": ["True", "False"],
+              "correctAnswer": "False"
+            }
+          ],
+          
+          "importantQuestions": [
+            {
+              "question": "Explain the difference between Radial and Bilateral symmetry.",
+              "answer": "Radial symmetry means the animal can be divided into equal halves by any plane passing through the central axis. Bilateral symmetry means division into identical left and right halves in only one plane."
+            },
+            {
+              "question": "Why are animals classified?",
+              "answer": "Classification helps in understanding the relationship among different groups of animals and makes their study easier."
+            }
+          ]
     }
   ]
 }
