@@ -1,0 +1,63 @@
+{
+  "className": "Class 5",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Super Senses in Animals",
+      "notes": "How animals use sight, smell, and hearing to perceive their surroundings.",
+      "headings": ["1. Animal Senses", "2. Animal Sleep and Alertness"],
+      "theoryData": {
+        "1. Animal Senses": {
+          "en": "Animals have heightened senses of smell, vision, and hearing compared to humans.",
+          "hi": "मनुष्यों की तुलना में जानवरों में सूंघने, देखने और सुनने की तीव्र क्षमता होती है।",
+          "imageUrl": ""
+        },
+        "2. Animal Sleep and Alertness": {
+          "en": "Different animals sleep for varying durations and maintain keen vigilance.",
+          "hi": "विभिन्न जानवर अलग-अलग समय के लिए सोते हैं और सतर्क रहते हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which animal can see things four times as far as we can?", "options": ["Dog", "Tiger", "Kite/Eagle", "Ant"], "correctAnswer": "Kite/Eagle" },
+        { "question": "Ants recognize their group members by their:", "options": ["Sight", "Smell", "Sound", "Touch"], "correctAnswer": "Smell" },
+        { "question": "Sloths spend about how many hours sleeping upside down?", "options": ["4 hours", "12 hours", "18 hours", "2 hours"], "correctAnswer": "18 hours" },
+        { "question": "Which animal warns others of danger by giving a special warning call?", "options": ["Langur", "Cow", "Snake", "Fish"], "correctAnswer": "Langur" }
+      ],
+      "importantQuestions": [
+        { "question": "How do mosquitoes find humans?", "answer": "By sensing body heat and the smell of the soles of feet." },
+        { "question": "Why are tigers considered endangered?", "answer": "Due to poaching for skin/bones and loss of natural forest habitats." },
+        { "question": "How do dogs mark their territory?", "answer": "By urinating along paths to signal other dogs." },
+        { "question": "Write a short note on Sloths.", "answer": "Sloths look like bears, spend their lives hanging upside down on trees, and live for about 40 years." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: A Snake Charmer's Story",
+      "notes": "Relationship between humans and animals, specifically snakes in India.",
+      "headings": ["1. Snake Varieties", "2. Animal Welfare"],
+      "theoryData": {
+        "1. Snake Varieties": {
+          "en": "Only four types of venomous snakes are found in India.",
+          "hi": "भारत में केवल चार प्रकार के जहरीले सांप पाए जाते हैं।",
+          "imageUrl": ""
+        },
+        "2. Animal Welfare": {
+          "en": "Protecting animals and stopping cruelty towards captive wildlife.",
+          "hi": "जानवरों की रक्षा करना और बंदी वन्यजीवों के प्रति क्रूरता को रोकना।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which of these is a venomous snake in India?", "options": ["Python", "Cobra (Nag)", "Grass snake", "Water snake"], "correctAnswer": "Cobra (Nag)" },
+        { "question": "Kalbeliyas are known for:", "options": ["Farming", "Snake charming and folk dances", "Weaving", "Pottery"], "correctAnswer": "Snake charming and folk dances" },
+        { "question": "Snakes hear sounds through:", "options": ["External ears", "Vibrations on the ground", "Nose", "Eyes"], "correctAnswer": "Vibrations on the ground" },
+        { "question": "Medicines for snake bites are made from:", "options": ["Herbs", "Snake's poison", "Plant roots", "Minerals"], "correctAnswer": "Snake's poison" }
+      ],
+      "importantQuestions": [
+        { "question": "Name the four venomous snakes found in India.", "answer": "Cobra, Common Krait, Russell's Viper (Daboiya), and Saw-scaled Viper (Afai)." },
+        { "question": "Are all snakes poisonous?", "answer": "No, most snakes are non-poisonous and actually help farmers by eating rats in fields." },
+        { "question": "How do snake charmers make a living?", "answer": "By entertaining people with music from a flute (been) and showcasing snakes." },
+        { "question": "Why is wildlife protection important?", "answer": "To maintain ecological balance and prevent species extinction." }
+      ]
+    }
+  ]
+}
