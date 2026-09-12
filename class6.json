@@ -1,0 +1,63 @@
+{
+  "className": "Class 6",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Components of Food",
+      "notes": "Nutrients, balanced diet, and deficiency diseases.",
+      "headings": ["1. Major Nutrients", "2. Deficiency Diseases"],
+      "theoryData": {
+        "1. Major Nutrients": {
+          "en": "Carbohydrates, proteins, fats, vitamins, and minerals are essential nutrients.",
+          "hi": "कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन और खनिज आवश्यक पोषक तत्व हैं।",
+          "imageUrl": ""
+        },
+        "2. Deficiency Diseases": {
+          "en": "Diseases caused by the lack of essential nutrients over a long period.",
+          "hi": "लंबी अवधि तक आवश्यक पोषक तत्वों की कमी के कारण होने वाली बीमारियां।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Starch can be tested using:", "options": ["Iodine solution", "Caustic soda", "Copper sulfate", "Water"], "correctAnswer": "Iodine solution" },
+        { "question": "Deficiency of Vitamin C causes:", "options": ["Beriberi", "Scurvy", "Rickets", "Night blindness"], "correctAnswer": "Scurvy" },
+        { "question": "Body-building foods are rich in:", "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"], "correctAnswer": "Proteins" },
+        { "question": "Rickets is caused due to lack of:", "options": ["Vitamin A", "Vitamin B", "Vitamin D", "Vitamin C"], "correctAnswer": "Vitamin D" }
+      ],
+      "importantQuestions": [
+        { "question": "What is a balanced diet?", "answer": "A diet containing all essential nutrients, roughage, and water in correct proportions for proper growth and health." },
+        { "question": "Name the test used for detecting proteins in food.", "answer": "Copper sulfate and caustic soda solution test (Biuret test)." },
+        { "question": "What are energy-giving foods?", "answer": "Carbohydrates and fats." },
+        { "question": "What causes night blindness?", "answer": "Deficiency of Vitamin A in diet." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Body Movements",
+      "notes": "Human skeletal system, joints, and animal locomotion.",
+      "headings": ["1. Joints", "2. Skeletal System"],
+      "theoryData": {
+        "1. Joints": {
+          "en": "Points where bones meet, allowing various types of movements.",
+          "hi": "वे बिंदु जहां हड्डियां मिलती हैं, विभिन्न प्रकार की गतियों की अनुमति देती हैं।",
+          "imageUrl": ""
+        },
+        "2. Skeletal System": {
+          "en": "Framework of bones that gives shape and protects internal organs.",
+          "hi": "हड्डियों का ढांचा जो आकार देता है और आंतरिक अंगों की रक्षा करता है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "The joint present in the elbow is a:", "options": ["Ball and socket joint", "Hinge joint", "Pivot joint", "Fixed joint"], "correctAnswer": "Hinge joint" },
+        { "question": "Skull bones are joined by:", "options": ["Fixed joints", "Hinge joints", "Pivot joints", "Gliding joints"], "correctAnswer": "Fixed joints" },
+        { "question": "The bones of the hind limb in birds are modified for:", "options": ["Walking and perching", "Swimming", "Flying", "Digging"], "correctAnswer": "Walking and perching" },
+        { "question": "Earthworms move with the help of muscles and:", "options": ["Bones", "Bristles/Setae", "Fins", "Wings"], "correctAnswer": "Bristles/Setae" }
+      ],
+      "importantQuestions": [
+        { "question": "What is a ball and socket joint?", "answer": "A joint where the rounded end of one bone fits into the hollow cavity of another, allowing movement in all directions (e.g., shoulder)." },
+        { "question": "Why can't our elbow bend backwards?", "answer": "Because it contains a hinge joint which permits movement in only one plane." },
+        { "question": "What is the skeleton?", "answer": "The complete framework of bones and cartilage providing shape and support to the body." },
+        { "question": "How does an earthworm move?", "answer": "By alternate extension and contraction of body muscles aided by tiny bristles." }
+      ]
+    }
+  ]
+}
