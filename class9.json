@@ -1,0 +1,63 @@
+{
+  "className": "Class 9",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: The Fundamental Unit of Life",
+      "notes": "Cell structure, organelles, and their functions.",
+      "headings": ["1. Cell Organelles", "2. Plasma Membrane"],
+      "theoryData": {
+        "1. Cell Organelles": {
+          "en": "Organelles like mitochondria, chloroplasts, and lysosomes perform specialized cellular tasks.",
+          "hi": "माइटोकॉन्ड्रिया, क्लोरोप्लास्ट और लाइसोसोम जैसे अंग विशेष सेलुलर कार्य करते हैं।",
+          "imageUrl": ""
+        },
+        "2. Plasma Membrane": {
+          "en": "Selectively permeable barrier composed of lipids and proteins.",
+          "hi": "लिपिड और प्रोटीन से बनी चुनिंदा पारगम्य बाधा।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Who discovered cells in cork slices?", "options": ["Robert Hooke", "Leeuwenhoek", "Purkinje", "Brown"], "correctAnswer": "Robert Hooke" },
+        { "question": "Powerhouse of the cell is:", "options": ["Ribosome", "Mitochondria", "Lysosome", "Vacuole"], "correctAnswer": "Mitochondria" },
+        { "question": "Suicide bags of the cell are:", "options": ["Plastids", "Lysosomes", "Golgi apparatus", "Centrosomes"], "correctAnswer": "Lysosomes" },
+        { "question": "The movement of water across a semipermeable membrane is:", "options": ["Diffusion", "Osmosis", "Active transport", "Transpiration"], "correctAnswer": "Osmosis" }
+      ],
+      "importantQuestions": [
+        { "question": "Why is the plasma membrane called a selectively permeable membrane?", "answer": "Because it allows the entry and exit of select materials while preventing others." },
+        { "question": "Why are lysosomes known as suicide bags?", "answer": "They contain powerful digestive enzymes capable of digesting the cell's own cellular material when damaged." },
+        { "question": "Differentiate between plant and animal cells.", "answer": "Plant cells have a rigid cell wall, large vacuoles, and plastids; animal cells lack cell walls and have smaller vacuoles." },
+        { "question": "What is osmosis?", "answer": "The passage of water from a region of high water concentration through a semipermeable membrane to a region of low water concentration." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Tissues",
+      "notes": "Plant and animal tissues study.",
+      "headings": ["1. Plant Tissues", "2. Animal Tissues Overview"],
+      "theoryData": {
+        "1. Plant Tissues": {
+          "en": "Divided into meristematic (dividing) and permanent (non-dividing) tissues.",
+          "hi": "विभज्योतक (विभाजन) और स्थायी (गैर-विभाजन) ऊतकों में विभाजित।",
+          "imageUrl": ""
+        },
+        "2. Animal Tissues Overview": {
+          "en": "Includes epithelial, connective, muscular, and nervous tissues.",
+          "hi": "उपकला, संयोजी, पेशी और तंत्रिका ऊतकों को शामिल करता है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which tissue is responsible for upward transport of water in plants?", "options": ["Phloem", "Xylem", "Collenchyma", "Sclerenchyma"], "correctAnswer": "Xylem" },
+        { "question": "Meristematic tissue located at the growing tips is called:", "options": ["Lateral meristem", "Apical meristem", "Intercalary meristem", "Permanent meristem"], "correctAnswer": "Apical meristem" },
+        { "question": "Which plant tissue provides flexible mechanical support?", "options": ["Parenchyma", "Collenchyma", "Sclerenchyma", "Xylem"], "correctAnswer": "Collenchyma" },
+        { "question": "The tissue that forms the inner lining of blood vessels is:", "options": ["Squamous epithelium", "Columnar epithelium", "Ciliated epithelium", "Cuboidal epithelium"], "correctAnswer": "Squamous epithelium" }
+      ],
+      "importantQuestions": [
+        { "question": "What is a tissue?", "answer": "A group of cells similar in structure and design that work together to achieve a particular function." },
+        { "question": "Differentiate between xylem and phloem.", "answer": "Xylem transports water and minerals; phloem transports prepared organic food/nutrients." },
+        { "question": "What are the functions of stomata?", "answer": "Gas exchange and transpiration in plants." },
+        { "question": "State the features of sclerenchyma tissue.", "answer": "Composed of dead cells with thickened lignified walls, providing rigid mechanical support." }
+      ]
+    }
+  ]
+}
