@@ -1,0 +1,63 @@
+{
+  "className": "Class 1",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Animals Around Us",
+      "notes": "Recognizing basic big and small animals in our environment.",
+      "headings": ["1. Big and Small Animals", "2. Common Animal Sounds"],
+      "theoryData": {
+        "1. Big and Small Animals": {
+          "en": "Animals come in various sizes; elephants are large, mice are tiny.",
+          "hi": "जानवर विभिन्न आकारों में आते हैं; हाथी बड़े होते हैं, चूहे छोटे होते हैं।",
+          "imageUrl": ""
+        },
+        "2. Common Animal Sounds": {
+          "en": "Different animals communicate using distinct sounds like barking, mooing, and roaring.",
+          "hi": "अलग-अलग जानवर भौंकने, रंभाने और दहाड़ने जैसी विशिष्ट आवाज़ों का उपयोग करते हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which animal has a long trunk?", "options": ["Lion", "Elephant", "Cat", "Dog"], "correctAnswer": "Elephant" },
+        { "question": "What sound does a cat make?", "options": ["Meow", "Bark", "Roar", "Moo"], "correctAnswer": "Meow" },
+        { "question": "Which of these is a very small animal?", "options": ["Elephant", "Mouse", "Horse", "Cow"], "correctAnswer": "Mouse" },
+        { "question": "Which animal barks?", "options": ["Cat", "Dog", "Cow", "Sheep"], "correctAnswer": "Dog" }
+      ],
+      "importantQuestions": [
+        { "question": "Name a very big animal.", "answer": "Elephant or Blue Whale." },
+        { "question": "Name a small animal found around houses.", "answer": "Mouse or Ant." },
+        { "question": "What sound does a cow make?", "answer": "Moo." },
+        { "question": "Which animal is called the king of the jungle?", "answer": "Lion." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Animal Homes",
+      "notes": "Where different animals live for shelter and safety.",
+      "headings": ["1. Animal Shelters", "2. Caring for Animals"],
+      "theoryData": {
+        "1. Animal Shelters": {
+          "en": "Birds live in nests, dogs in kennels, lions in dens, and horses in stables.",
+          "hi": "पक्षी घोंसले में रहते हैं, कुत्ते केनेल में, शेर मांद में और घोड़े अस्तबल में रहते हैं।",
+          "imageUrl": ""
+        },
+        "2. Caring for Animals": {
+          "en": "We should treat animals with kindness and provide them food and water.",
+          "hi": "हमें जानवरों के साथ दया का व्यवहार करना चाहिए और उन्हें भोजन और पानी देना चाहिए।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Where does a dog live?", "options": ["Den", "Kennel", "Hive", "Tree"], "correctAnswer": "Kennel" },
+        { "question": "What is the home of a lion called?", "options": ["Stable", "Den", "Coop", "Nest"], "correctAnswer": "Den" },
+        { "question": "Horses are kept in a:", "options": ["Stable", "Kennel", "Burrow", "Hole"], "correctAnswer": "Stable" },
+        { "question": "Birds build what to live and lay eggs?", "options": ["Den", "Nest", "Shed", "Pond"], "correctAnswer": "Nest" }
+      ],
+      "importantQuestions": [
+        { "question": "Where does a lion live?", "answer": "In a den." },
+        { "question": "Where does a horse live?", "answer": "In a stable." },
+        { "question": "Where do birds live?", "answer": "In nests." },
+        { "question": "How should we treat animals?", "answer": "With love, kindness, and proper care." }
+      ]
+    }
+  ]
+}
