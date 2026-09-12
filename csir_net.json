@@ -1,0 +1,63 @@
+{
+  "className": "CSIR NET",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Cell Communication",
+      "notes": "Signal transduction pathways and cell surface receptors.",
+      "headings": ["1. G-Protein Coupled Receptors", "2. Second Messengers"],
+      "theoryData": {
+        "1. G-Protein Coupled Receptors": {
+          "en": "GPCRs act through heterotrimeric G proteins to trigger intracellular cascades.",
+          "hi": "GPCRs इंट्रासेल्युलर कैस्केड को ट्रिगर करने के लिए हेटरोट्रिमेरिक जी प्रोटीन के माध्यम से कार्य करते हैं।",
+          "imageUrl": ""
+        },
+        "2. Second Messengers": {
+          "en": "Molecules like cAMP and IP3 relay signals received at cell surface receptors to target molecules.",
+          "hi": "cAMP और IP3 जैसे अणु सेल सतह रिसेप्टर्स पर प्राप्त संकेतों को लक्ष्य अणुओं तक पहुंचाते हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "cAMP is synthesized by which enzyme?", "options": ["Phospholipase C", "Adenylyl Cyclase", "Protein Kinase A", "Phosphodiesterase"], "correctAnswer": "Adenylyl Cyclase" },
+        { "question": "Which second messenger regulates intracellular calcium release?", "options": ["cAMP", "cGMP", "IP3", "DAG"], "correctAnswer": "IP3" },
+        { "question": "Receptor Tyrosine Kinases (RTKs) function by:", "options": ["Phosphorylating tyrosine residues", "Opening ion channels", "G-protein coupling", "Cleaving lipids"], "correctAnswer": "Phosphorylating tyrosine residues" },
+        { "question": "Cholera toxin targets which signaling component?", "options": ["Gs protein", "Adenylate cyclase", "Calcium channels", "Protein kinase C"], "correctAnswer": "Gs protein" }
+      ],
+      "importantQuestions": [
+        { "question": "Explain GPCR activation steps.", "answer": "Ligand binding induces conformational change, activating G-protein, exchanging GDP for GTP, and dissociating subunits to stimulate effectors." },
+        { "question": "What is the role of IP3 and DAG in cell signaling?", "answer": "Phospholipase C cleaves PIP2 into IP3 (releases Ca2+ from ER) and DAG (activates Protein Kinase C)." },
+        { "question": "How do Receptor Tyrosine Kinases signal?", "answer": "Ligand binding causes receptor dimerization, autophosphorylation of tyrosine residues, and recruitment of downstream signaling proteins." },
+        { "question": "What is signal amplification?", "answer": "A process where a single ligand binding event triggers a cascade producing thousands of second messenger molecules." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Developmental Biology",
+      "notes": "Embryogenesis, fertilization, and pattern formation.",
+      "headings": ["1. Fertilization Dynamics", "2. Axis Specification"],
+      "theoryData": {
+        "1. Fertilization Dynamics": {
+          "en": "Fertilization involves sperm-egg recognition, acrosome reaction, and prevention of polyspermy.",
+          "hi": "निषेचन में शुक्राणु-अंडा पहचान, एक्रोसोम प्रतिक्रिया और पॉलीस्पर्म की रोकथाम शामिल है।",
+          "imageUrl": ""
+        },
+        "2. Axis Specification": {
+          "en": "Establishment of body axes depends on maternal effect genes and morphogen gradients.",
+          "hi": "शरीर के अक्षों की स्थापना मातृ प्रभाव वाले जीनों और मॉर्फोजेन ढلوان पर निर्भर करती है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Fast block to polyspermy is mediated by:", "options": ["Calcium influx", "Cortical granule reaction", "Membrane depolarization", "Zona pellucida hardening"], "correctAnswer": "Membrane depolarization" },
+        { "question": "Holoblastic cleavage is typical of eggs with:", "options": ["High yolk concentration", "Little or moderate yolk", "No cytoplasm", "Centrolecithal structure"], "correctAnswer": "Little or moderate yolk" },
+        { "question": "The organizer in amphibian embryos was discovered by:", "options": ["Hans Spemann and Hilde Mangold", "Charles Darwin", "Gregor Mendel", "August Weismann"], "correctAnswer": "Hans Spemann and Hilde Mangold" },
+        { "question": "Hox genes are responsible for:", "options": ["Anterior-posterior body plan", "Cell cycle arrest", "Apoptosis regulation", "Metabolic control"], "correctAnswer": "Anterior-posterior body plan" }
+      ],
+      "importantQuestions": [
+        { "question": "Describe the fast and slow blocks to polyspermy.", "answer": "Fast block relies on electrical membrane depolarization; slow block involves the cortical granule reaction creating a physical fertilization envelope." },
+        { "question": "What is the Spemann-Mangold organizer experiment?", "answer": "It demonstrated that the dorsal blastopore lip can induce host tissues to form a secondary embryonic axis (neural induction)." },
+        { "question": "Define morphogen and give an example.", "answer": "A morphogen is a signaling molecule that acts in a concentration gradient to direct embryonic pattern formation (e.g., Bicoid in Drosophila)." },
+        { "question": "Explain holoblastic vs meroblastic cleavage.", "answer": "Holoblastic cleavage involves the entire egg dividing; meroblastic cleavage is incomplete due to high yolk content." }
+      ]
+    }
+  ]
+}
