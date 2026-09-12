@@ -1,0 +1,63 @@
+{
+  "className": "Class 10",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Life Processes",
+      "notes": "Nutrition, respiration, transportation, and excretion in living organisms.",
+      "headings": ["1. Nutrition in Humans", "2. Human Respiration"],
+      "theoryData": {
+        "1. Nutrition in Humans": {
+          "en": "Human digestion involves ingestion, digestion in the alimentary canal, absorption, and egestion.",
+          "hi": "मानव पाचन में अंतर्ग्रहण, आहार नली में पाचन, अवशोषण और मल त्याग शामिल हैं।",
+          "imageUrl": ""
+        },
+        "2. Human Respiration": {
+          "en": "Respiration breaks down glucose to release energy via aerobic or anaerobic pathways.",
+          "hi": "श्वसन एरोबिक या एनारोबिक मार्गों के माध्यम से ऊर्जा जारी करने के लिए ग्लूकोज को तोड़ता है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Bile juice is secreted by which organ?", "options": ["Stomach", "Pancreas", "Liver", "Small intestine"], "correctAnswer": "Liver" },
+        { "question": "The respiratory pigment in human blood is:", "options": ["Hemocyanin", "Hemoglobin", "Chlorophyll", "Insulin"], "correctAnswer": "Hemoglobin" },
+        { "question": "Where does gaseous exchange take place in lungs?", "options": ["Trachea", "Bronchi", "Alveoli", "Larynx"], "correctAnswer": "Alveoli" },
+        { "question": "The breakdown of pyruvate to yield carbon dioxide, water, and energy takes place in:", "options": ["Cytoplasm", "Mitochondria", "Nucleus", "Golgi body"], "correctAnswer": "Mitochondria" }
+      ],
+      "importantQuestions": [
+        { "question": "What are life processes?", "answer": "The basic essential maintenance functions performed by living organisms to stay alive." },
+        { "question": "Explain the role of saliva in digestion.", "answer": "Saliva contains salivary amylase which breaks down complex starch into simple sugars." },
+        { "question": "How are lungs designed to maximize gas exchange?", "answer": "Alveoli provide a very large surface area and are richly supplied with blood capillaries." },
+        { "question": "Differentiate between aerobic and anaerobic respiration.", "answer": "Aerobic uses oxygen yielding high energy; anaerobic occurs without oxygen yielding lower energy and byproducts like lactic acid or ethanol." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Control and Coordination",
+      "notes": "Nervous system, reflex action, and plant/animal hormones.",
+      "headings": ["1. Human Nervous System", "2. Endocrine System"],
+      "theoryData": {
+        "1. Human Nervous System": {
+          "en": "Comprises the brain, spinal cord, and peripheral nerves for rapid response.",
+          "hi": "तेज़ प्रतिक्रिया के लिए मस्तिष्क, रीढ़ की हड्डी और परिधीय नसों को शामिल करता है।",
+          "imageUrl": ""
+        },
+        "2. Endocrine System": {
+          "en": "Chemical coordination via hormones released directly into the bloodstream.",
+          "hi": "रक्त प्रवाह में सीधे जारी किए जाने वाले हार्मोन के माध्यम से रासायनिक समन्वय।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "The gap between two neurons is called:", "options": ["Dendrite", "Synapse", "Axon", "Impulse"], "correctAnswer": "Synapse" },
+        { "question": "Which part of the brain maintains posture and balance?", "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"], "correctAnswer": "Cerebellum" },
+        { "question": "Insulin is produced by:", "options": ["Thyroid", "Pancreas", "Adrenal gland", "Pituitary"], "correctAnswer": "Pancreas" },
+        { "question": "A rapid, automatic response to a stimulus is called:", "options": ["Reflex action", "Impulse", "Synaptic shift", "Voluntary movement"], "correctAnswer": "Reflex action" }
+      ],
+      "importantQuestions": [
+        { "question": "What is a reflex arc?", "answer": "The pathway taken by nerve impulses in a reflex action, from receptor to sensory neuron, spinal cord, motor neuron, and effector." },
+        { "question": "State the functions of adrenaline hormone.", "answer": "Prepares the body for 'fight or flight' by increasing heart rate, breathing rate, and blood supply to muscles." },
+        { "question": "Name the master gland and explain why.", "answer": "Pituitary gland, because it regulates the activity of other endocrine glands." },
+        { "question": "What is the role of the cerebrum?", "answer": "It is the main thinking and sensory center of the human brain." }
+      ]
+    }
+  ]
+}
