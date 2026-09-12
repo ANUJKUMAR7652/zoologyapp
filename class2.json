@@ -1,0 +1,63 @@
+{
+  "className": "Class 2",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Domestic and Wild Animals",
+      "notes": "Basic grouping of animals based on where they live.",
+      "headings": ["1. Wild Animals", "2. Domestic Animals"],
+      "theoryData": {
+        "1. Wild Animals": {
+          "en": "Animals that live naturally in forests and jungles without human care.",
+          "hi": "वे जानवर जो मानवीय देखभाल के बिना जंगलों में स्वाभाविक रूप से रहते हैं।",
+          "imageUrl": ""
+        },
+        "2. Domestic Animals": {
+          "en": "Animals kept by humans on farms or homes for utility or companionship.",
+          "hi": "उपयोगिता या संगति के लिए खेतों या घरों में मनुष्यों द्वारा रखे गए जानवर।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which of the following is a wild animal?", "options": ["Cow", "Lion", "Dog", "Cat"], "correctAnswer": "Lion" },
+        { "question": "Which animal is kept on farms for milk?", "options": ["Tiger", "Buffalo", "Fox", "Wolf"], "correctAnswer": "Buffalo" },
+        { "question": "Where do wild animals live?", "options": ["In houses", "In jungles/forests", "In cages only", "On roads"], "correctAnswer": "In jungles/forests" },
+        { "question": "A pet animal kept at home is:", "options": ["Lion", "Dog", "Zebra", "Bear"], "correctAnswer": "Dog" }
+      ],
+      "importantQuestions": [
+        { "question": "What are wild animals? Give examples.", "answer": "Animals that live in natural forests (e.g., lion, tiger, elephant, bear)." },
+        { "question": "What are domestic animals? Give examples.", "answer": "Animals useful to humans, kept on farms or homes (e.g., cow, horse, sheep)." },
+        { "question": "What is the difference between pet and wild animals?", "answer": "Pets live with humans at home; wild animals live independently in nature." },
+        { "question": "Name two animals that guard our houses.", "answer": "Dogs and cats." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Useful Animals",
+      "notes": "How various animals provide food, clothing, and labor support.",
+      "headings": ["1. Animal Products", "2. Working Animals"],
+      "theoryData": {
+        "1. Animal Products": {
+          "en": "We get milk, eggs, honey, and wool from useful animals.",
+          "hi": "हमें उपयोगी जानवरों से दूध, अंडे, शहद और ऊन मिलती है।",
+          "imageUrl": ""
+        },
+        "2. Working Animals": {
+          "en": "Animals help carry loads, plow fields, and transport people.",
+          "hi": "जानवर भार ढोने, खेतों की जुताई करने और लोगों को ले जाने में मदद करते हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "We get wool from which animal?", "options": ["Cow", "Sheep", "Hen", "Fish"], "correctAnswer": "Sheep" },
+        { "question": "Honey is obtained from:", "options": ["Honeybees", "Butterflies", "Silkworms", "Ants"], "correctAnswer": "Honeybees" },
+        { "question": "Which animal is used to pull carts and carry loads?", "options": ["Dog", "Horse/Ox", "Cat", "Parrot"], "correctAnswer": "Horse/Ox" },
+        { "question": "Eggs are given to us by:", "options": ["Cows", "Hens/Ducks", "Goats", "Sheep"], "correctAnswer": "Hens/Ducks" }
+      ],
+      "importantQuestions": [
+        { "question": "Name three products we get from animals.", "answer": "Milk, eggs, and wool." },
+        { "question": "Which insect gives us silk?", "answer": "Silkworm." },
+        { "question": "How do bullocks help farmers?", "answer": "They help plow fields and pull carts carrying farm produce." },
+        { "question": "Why are honeybees important?", "answer": "They produce honey and beeswax, and help pollinate flowering plants." }
+      ]
+    }
+  ]
+}
