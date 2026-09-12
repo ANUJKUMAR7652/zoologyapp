@@ -1,0 +1,63 @@
+{
+  "className": "Class 11",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Animal Kingdom Diversity",
+      "notes": "Classification of animals based on symmetry, coelom, and structural levels.",
+      "headings": ["1. Basis of Classification", "2. Phylum Porifera & Cnidaria"],
+      "theoryData": {
+        "1. Basis of Classification": {
+          "en": "Animals are classified based on symmetry, germ layers, coelom, and segmentation.",
+          "hi": "जानवरों को समरूपता, जनन स्तर, सीलोम और खंडीकरण के आधार पर वर्गीकृत किया जाता है।",
+          "imageUrl": "https://raw.githubusercontent.com/ANUJKUMAR7652/zoologyapp/main/porifera.jpg"
+        },
+        "2. Phylum Porifera & Cnidaria": {
+          "en": "Porifera contains sponges with cellular grade organization; Cnidarians exhibit tissue grade and cnidoblasts.",
+          "hi": "पोरिफेरा में कोशिकीय स्तर के संगठन वाले स्पंज होते हैं; निडarians ऊतक स्तर और डंक कोशिकाओं को प्रदर्शित करते हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which of the following is a radially symmetrical animal?", "options": ["Frog", "Earthworm", "Adult starfish", "Cockroach"], "correctAnswer": "Adult starfish" },
+        { "question": "Sponges belong to which phylum?", "options": ["Cnidaria", "Porifera", "Ctenophora", "Platyhelminthes"], "correctAnswer": "Porifera" },
+        { "question": "The body cavity lined by mesoderm is called:", "options": ["Pseudocoelom", "Coelom", "Hemocoel", "Blastocoel"], "correctAnswer": "Coelom" },
+        { "question": "Cnidoblasts are used for:", "options": ["Locomotion", "Defense and capture of prey", "Digestion only", "Excretion"], "correctAnswer": "Defense and capture of prey" }
+      ],
+      "importantQuestions": [
+        { "question": "Explain the difference between radial and bilateral symmetry.", "answer": "Radial symmetry divides animals into equal halves through any central plane; bilateral symmetry splits them into unique left/right halves along one plane." },
+        { "question": "What is a pseudocoelomate?", "answer": "Animals in which the body cavity is not lined by mesoderm; instead, mesoderm is present as scattered pouches (e.g., Aschelminthes)." },
+        { "question": "Distinguish between chordates and non-chordates.", "answer": "Chordates possess a notochord, dorsal hollow nerve cord, and pharyngeal gill slits, which non-chordates lack." },
+        { "question": "Write key features of Phylum Porifera.", "answer": "They are asymmetrical, aquatic, pore-bearing animals with a water transport system and cellular level organization." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Structural Organisation in Animals",
+      "notes": "Animal tissues, morphology, and anatomy of typical specimens like cockroaches.",
+      "headings": ["1. Animal Tissues", "2. Organ Systems in Cockroach"],
+      "theoryData": {
+        "1. Animal Tissues": {
+          "en": "Animal tissues are grouped into epithelial, connective, muscular, and neural tissues.",
+          "hi": "पशु ऊतकों को उपकला, संयोजी, पेशी और तंत्रिका ऊतकों में समूوبत किया जाता है।",
+          "imageUrl": ""
+        },
+        "2. Organ Systems in Cockroach": {
+          "en": "Cockroaches possess Malpighian tubules for excretion and a mosaic vision system via ommatidia.",
+          "hi": "कॉकरोच में उत्सर्जन के लिए मालpighian नलिकाएं और ओमाटिidia के माध्यम से मोज़ेक दृष्टि प्रणाली होती है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Blood is classified as which type of tissue?", "options": ["Epithelial tissue", "Connective tissue", "Muscular tissue", "Neural tissue"], "correctAnswer": "Connective tissue" },
+        { "question": "Excretory organs in cockroaches are:", "options": ["Green glands", "Malpighian tubules", "Kidneys", "Flame cells"], "correctAnswer": "Malpighian tubules" },
+        { "question": "Intercalated discs are found in:", "options": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "Nerve cells"], "correctAnswer": "Cardiac muscle" },
+        { "question": "Cuboidal epithelium is commonly found in:", "options": ["Blood vessels", "Kidney tubules", "Skin surface", "Stomach lining"], "correctAnswer": "Kidney tubules" }
+      ],
+      "importantQuestions": [
+        { "question": "What are the four primary types of animal tissues?", "answer": "Epithelial, Connective, Muscular, and Neural tissues." },
+        { "question": "Explain the function of intercalated discs in cardiac muscle.", "answer": "They allow synchronized contraction of heart muscle cells by facilitating rapid ionic communication." },
+        { "question": "What is the function of Malpighian tubules?", "answer": "They help remove nitrogenous wastes from hemolymph and convert them into uric acid in insects." },
+        { "question": "Differentiate between tendon and ligament.", "answer": "Tendons connect skeletal muscles to bones; ligaments connect bones to other bones." }
+      ]
+    }
+  ]
+}
