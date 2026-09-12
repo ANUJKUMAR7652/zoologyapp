@@ -1,0 +1,63 @@
+{
+  "className": "UPSC Foundation",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Ecology and Environment",
+      "notes": "Core concepts for UPSC Zoology Optional focusing on ecosystems and biodiversity.",
+      "headings": ["1. Trophic Levels & Energy Flow", "2. Biodiversity Conservation"],
+      "theoryData": {
+        "1. Trophic Levels & Energy Flow": {
+          "en": "Energy flow in an ecosystem is unidirectional and follows the 10% rule introduced by Lindeman.",
+          "hi": "एक पारिस्थितिकी तंत्र में ऊर्जा प्रवाह एकदिशीय होता है और लिंडमैन द्वारा शुरू किए गए 10% नियम का पालन करता है।",
+          "imageUrl": "https://raw.githubusercontent.com/ANUJKUMAR7652/zoologyapp/main/ecology.jpg"
+        },
+        "2. Biodiversity Conservation": {
+          "en": "In-situ conservation involves protecting endangered species in their natural habitats like National Parks.",
+          "hi": "स्वस्थाने संरक्षण में राष्ट्रीय पार्कों जैसे प्राकृतिक आवासों में लुप्तप्राय प्रजातियों की रक्षा करना शामिल है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Energy transfer between trophic levels is typically what percentage?", "options": ["1%", "10%", "50%", "100%"], "correctAnswer": "10%" },
+        { "question": "Which of the following is an example of ex-situ conservation?", "options": ["National Park", "Biosphere Reserve", "Zoological Park", "Wildlife Sanctuary"], "correctAnswer": "Zoological Park" },
+        { "question": "An ecological pyramid of energy is always:", "options": ["Inverted", "Upright", "Spindle-shaped", "Irregular"], "correctAnswer": "Upright" },
+        { "question": "The term 'Biodiversity Hotspot' was coined by:", "options": ["E.O. Wilson", "Norman Myers", "Ernst Haeckel", "A.G. Tansley"], "correctAnswer": "Norman Myers" }
+      ],
+      "importantQuestions": [
+        { "question": "What is an ecological pyramid?", "answer": "A graphical representation showing the trophic structure and function of an ecosystem." },
+        { "question": "Discuss the impact of invasive alien species on native biodiversity.", "answer": "Invasive species outcompete native species for resources, often causing population declines or extinctions." },
+        { "question": "Distinguish between in-situ and ex-situ conservation.", "answer": "In-situ protects species in natural habitats, whereas ex-situ protects them outside natural habitats (e.g., zoos, seed banks)." },
+        { "question": "Explain the 10% energy law.", "answer": "Only about 10% of energy is passed from one trophic level to the next; the rest is lost as heat during respiration." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Evolution and Theories",
+      "notes": "Evolutionary biology concepts and mechanisms of speciation.",
+      "headings": ["1. Darwin's Theory of Natural Selection", "2. Mechanisms of Speciation"],
+      "theoryData": {
+        "1. Darwin's Theory of Natural Selection": {
+          "en": "Natural selection is the differential survival and reproduction of individuals due to phenotypic differences.",
+          "hi": "प्राकृतिक चयन फेनोटाइपिक अंतर के कारण व्यक्तियों का विभेदक अस्तित्व और प्रजनन है।",
+          "imageUrl": ""
+        },
+        "2. Mechanisms of Speciation": {
+          "en": "Speciation occurs when populations evolve to become distinct species, often via geographic isolation.",
+          "hi": "विभेदन तब होता है जब आबादी अलग प्रजाति बनने के लिए विकसित होती है, अक्सर भौगोलिक अलगाव के माध्यम से।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Who proposed the theory of Natural Selection jointly with Darwin?", "options": ["Lamarck", "Alfred Russel Wallace", "Gregor Mendel", "Hugo de Vries"], "correctAnswer": "Alfred Russel Wallace" },
+        { "question": "Allopatric speciation involves:", "options": ["Geographic isolation", "Same habitat", "Polyploidy only", "Symbiotic relations"], "correctAnswer": "Geographic isolation" },
+        { "question": "The wings of birds and insects are examples of:", "options": ["Homologous organs", "Analogous organs", "Vestigial organs", "Atavism"], "correctAnswer": "Analogous organs" },
+        { "question": "Hardy-Weinberg equilibrium is disturbed by:", "options": ["Random mating", "No migration", "Natural selection", "Infinite population size"], "correctAnswer": "Natural selection" }
+      ],
+      "importantQuestions": [
+        { "question": "Define survival of the fittest in evolutionary terms.", "answer": "Fitness refers to an organism's ability to survive and produce fertile offspring in its environment." },
+        { "question": "What is allopatric speciation?", "answer": "Speciation that occurs when biological populations of the same species become isolated due to geographical changes." },
+        { "question": "Distinguish between homologous and analogous organs.", "answer": "Homologous organs share common ancestry but differ in function; analogous organs have similar functions but different origins." },
+        { "question": "State the Hardy-Weinberg Principle.", "answer": "Allele and genotype frequencies in a population remain constant from generation to generation in the absence of evolutionary influences." }
+      ]
+    }
+  ]
+}
