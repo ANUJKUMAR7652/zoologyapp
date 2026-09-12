@@ -1,0 +1,63 @@
+{
+  "className": "Class 8",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Reproduction in Animals",
+      "notes": "Sexual and asexual reproduction methods in animals.",
+      "headings": ["1. Modes of Reproduction", "2. Metamorphosis"],
+      "theoryData": {
+        "1. Modes of Reproduction": {
+          "en": "Animals reproduce either sexually (fusion of gametes) or asexually (single parent).",
+          "hi": "जानवर या तो यौन रूप से (युग्मकों का संलयन) या अलैंगिक रूप से (एकल माता-पिता) प्रजनन करते हैं।",
+          "imageUrl": ""
+        },
+        "2. Metamorphosis": {
+          "en": "Transformation of a larva into an adult through drastic physical changes (e.g., frogs).",
+          "hi": "भारी शारीरिक परिवर्तनों के माध्यम से लार्वा का वयस्क में परिवर्तन (जैसे, मेंढक)।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "The fusion of sperm and ovum is called:", "options": ["Pollination", "Fertilization", "Metamorphosis", "Budding"], "correctAnswer": "Fertilization" },
+        { "question": "Internal fertilization takes place:", "options": ["Inside female body", "Outside female body", "In water bodies", "In soil"], "correctAnswer": "Inside female body" },
+        { "question": "Binary fission is observed in:", "options": ["Hydra", "Amoeba", "Frog", "Human"], "correctAnswer": "Amoeba" },
+        { "question": "The tadpole develops into an adult frog through:", "options": ["Metamorphosis", "Budding", "Fission", "Fragmentation"], "correctAnswer": "Metamorphosis" }
+      ],
+      "importantQuestions": [
+        { "question": "Define internal fertilization with examples.", "answer": "Fertilization taking place inside the female body (e.g., humans, cows, dogs)." },
+        { "question": "What is metamorphosis?", "answer": "The biological process of rapid and abrupt physical changes from larval stage to adult form." },
+        { "question": "Differentiate between oviparous and viviparous animals.", "answer": "Oviparous animals lay eggs; viviparous animals give birth to live young ones." },
+        { "question": "Explain budding in Hydra.", "answer": "A small outgrowth called a bud develops from the parent body and detaches once mature." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Cell - Structure and Functions",
+      "notes": "Basic components of animal and plant cells.",
+      "headings": ["1. Parts of Cell", "2. Cell Shape and Size"],
+      "theoryData": {
+        "1. Parts of Cell": {
+          "en": "Main components include cell membrane, cytoplasm, and nucleus.",
+          "hi": "मुख्य घटकों में कोशिका झिल्ली, कोशिका द्रव्य और केंद्रक शामिल हैं।",
+          "imageUrl": ""
+        },
+        "2. Cell Shape and Size": {
+          "en": "Cells vary greatly in shape and size depending on their functions.",
+          "hi": "कोशिकाएं अपने कार्यों के आधार पर आकार और माप में काफी भिन्न होती हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "The control center of eukaryotic cells is:", "options": ["Nucleus", "Vacuole", "Plastid", "Cell wall"], "correctAnswer": "Nucleus" },
+        { "question": "Protoplasm includes:", "options": ["Cytoplasm only", "Nucleus only", "Cytoplasm and Nucleus", "Cell membrane only"], "correctAnswer": "Cytoplasm and Nucleus" },
+        { "question": "The smallest cell known is:", "options": ["Ostrich egg", "Bacterium/Mycoplasma", "White blood cell", "Amoeba"], "correctAnswer": "Bacterium/Mycoplasma" },
+        { "question": "Thread-like structures present in the nucleus are:", "options": ["Chromosomes", "Ribosomes", "Chloroplasts", "Mitochondria"], "correctAnswer": "Chromosomes" }
+      ],
+      "importantQuestions": [
+        { "question": "State the functions of the cell membrane.", "answer": "Protects the cell content and regulates the transport of substances in and out." },
+        { "question": "What are genes?", "answer": "Units of inheritance located on chromosomes that transfer traits from parents to offspring." },
+        { "question": "Why do plant cells have cell walls?", "answer": "To provide structural rigidity, protection, and shape against mechanical stress." },
+        { "question": "Define cytoplasm.", "answer": "The jelly-like substance between the cell membrane and the nucleus containing various organelles." }
+      ]
+    }
+  ]
+}
