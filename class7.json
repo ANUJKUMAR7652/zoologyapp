@@ -1,0 +1,63 @@
+{
+  "className": "Class 7",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Nutrition in Animals",
+      "notes": "Digestion process and feeding mechanisms in animals.",
+      "headings": ["1. Human Digestive System", "2. Digestion in Grass-eating Animals"],
+      "theoryData": {
+        "1. Human Digestive System": {
+          "en": "Includes mouth, esophagus, stomach, small intestine, and large intestine.",
+          "hi": "मुंह, अन्नप्रणाली, पेट, छोटी आंत और बड़ी आंत शामिल हैं।",
+          "imageUrl": ""
+        },
+        "2. Digestion in Grass-eating Animals": {
+          "en": "Herbivores have a rumen to digest cellulose quickly via fermentation.",
+          "hi": "शाकाहारी जीवों में किण्वन के माध्यम से सेलूलोज को जल्दी पचाने के लिए रूमेन होता है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "The site of complete digestion of food is:", "options": ["Stomach", "Large intestine", "Small intestine", "Esophagus"], "correctAnswer": "Small intestine" },
+        { "question": "Finger-like projections in the small intestine are called:", "options": ["Villi", "Pseudopodia", "Cilia", "Stomatal pores"], "correctAnswer": "Villi" },
+        { "question": "Ruminants quickly swallow grass and store it in:", "options": ["Rumen", "Stomach", "Liver", "Gall bladder"], "correctAnswer": "Rumen" },
+        { "question": "Amoeba captures food using:", "options": ["Cilia", "Pseudopodia", "Tentacles", "Flagella"], "correctAnswer": "Pseudopodia" }
+      ],
+      "importantQuestions": [
+        { "question": "What are villi and what is their function?", "answer": "Villi are finger-like projections in the small intestine that increase surface area for nutrient absorption." },
+        { "question": "How do ruminants digest cellulose?", "answer": "They swallow grass into the rumen where bacteria help digest cellulose, later regurgitating it as cud to chew again." },
+        { "question": "What is ingestion?", "answer": "The process of taking food into the body." },
+        { "question": "Where is bile produced and stored?", "answer": "Produced in the liver and stored in the gall bladder." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Respiration in Organisms",
+      "notes": "Breathing mechanisms in humans, insects, and plants.",
+      "headings": ["1. Breathing Mechanism", "2. Respiration in Other Animals"],
+      "theoryData": {
+        "1. Breathing Mechanism": {
+          "en": "Inhalation brings oxygen in; exhalation removes carbon dioxide via diaphragm movement.",
+          "hi": "सांस लेना ऑक्सीजन अंदर लाता है; सांस छोड़ना डायफ्राम की गति के माध्यम से कार्बन डाइऑक्साइड हटाता है।",
+          "imageUrl": ""
+        },
+        "2. Respiration in Other Animals": {
+          "en": "Insects use spiracles; earthworms breathe through moist skin; fish use gills.",
+          "hi": "कीड़े स्पाइरैकल्स का उपयोग करते हैं; केंचुए नम त्वचा से सांस लेते हैं; मछलियां गलफड़ों का उपयोग करती हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Earthworms breathe through their:", "options": ["Lungs", "Moist skin", "Trachea", "Gills"], "correctAnswer": "Moist skin" },
+        { "question": "Insects have a network of air tubes called:", "options": ["Tracheae", "Gills", "Spiracles", "Alveoli"], "correctAnswer": "Tracheae" },
+        { "question": "Fish respire through:", "options": ["Skin", "Gills", "Lungs", "Fin pores"], "correctAnswer": "Gills" },
+        { "question": "During heavy exercise, muscle cramps occur due to accumulation of:", "options": ["Carbon dioxide", "Lactic acid", "Alcohol", "Water"], "correctAnswer": "Lactic acid" }
+      ],
+      "importantQuestions": [
+        { "question": "Why do we respire?", "answer": "To release energy from digested food to fuel body activities." },
+        { "question": "How do fish breathe underwater?", "answer": "Using gills which extract dissolved oxygen from water passing through them." },
+        { "question": "What are spiracles?", "answer": "Small openings on the sides of insects' bodies used for breathing." },
+        { "question": "Describe breathing movements in humans.", "answer": "Ribs move up and outward while the diaphragm moves down during inhalation; reverse happens during exhalation." }
+      ]
+    }
+  ]
+}
