@@ -1,0 +1,63 @@
+{
+  "className": "Class 12",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Human Reproduction",
+      "notes": "Detailed study of human reproductive systems, gametogenesis, and fertilization.",
+      "headings": ["1. Male Reproductive System", "2. Gametogenesis"],
+      "theoryData": {
+        "1. Male Reproductive System": {
+          "en": "The male reproductive system includes testes, accessory ducts, glands, and external genitalia.",
+          "hi": "पुरुष प्रजनन प्रणाली में वृषण, सहायक नलिकाएं, ग्रंथियां और बाहरी जननांग शामिल हैं।",
+          "imageUrl": ""
+        },
+        "2. Gametogenesis": {
+          "en": "Gametogenesis is the production of gametes through meiosis, including spermatogenesis and oogenesis.",
+          "hi": "गेमेटोजेनेसिस अर्धसूत्रीविभाजन के माध्यम से युग्मकों का उत्पादन है, जिसमें शुक्राणुजनन और अंडजनन शामिल हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Leydig cells secrete which hormone?", "options": ["Progesterone", "Testosterone", "Estrogen", "Oxytocin"], "correctAnswer": "Testosterone" },
+        { "question": "Where does fertilization typically occur in humans?", "options": ["Uterus", "Ovary", "Fallopian tube (Ampulla)", "Vagina"], "correctAnswer": "Fallopian tube (Ampulla)" },
+        { "question": "The hormone responsible for ovulation is:", "options": ["FSH", "LH", "Estrogen", "Progesterone"], "correctAnswer": "LH" },
+        { "question": "Acrosome of sperm is derived from:", "options": ["Mitochondria", "Golgi apparatus", "Endoplasmic reticulum", "Nucleus"], "correctAnswer": "Golgi apparatus" }
+      ],
+      "importantQuestions": [
+        { "question": "What is spermatogenesis?", "answer": "The process of formation of haploid spermatozoa from diploid spermatogonia in the seminiferous tubules." },
+        { "question": "Draw or describe the structure of a human sperm.", "answer": "A sperm consists of a head (nucleus and acrosome), middle piece (mitochondria for energy), and a tail for motility." },
+        { "question": "Explain the menstrual cycle phases.", "answer": "Includes menstrual phase, proliferative phase, ovulatory phase, and secretory (luteal) phase driven by ovarian and pituitary hormones." },
+        { "question": "What is the role of the placenta?", "answer": "Acts as an endocrine and nutritional barrier/connection supplying oxygen and nutrients while removing wastes for the fetus." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Reproductive Health",
+      "notes": "Importance of reproductive health, birth control, and STIs.",
+      "headings": ["1. Birth Control Methods", "2. Sexually Transmitted Infections"],
+      "theoryData": {
+        "1. Birth Control Methods": {
+          "en": "Contraceptive methods prevent unwanted pregnancies using barrier, hormonal, or surgical techniques.",
+          "hi": "गर्भनिरोधक विधियां अवरोधक, हार्मोनल या सर्जिकल तकनीकों का उपयोग करके अवांछित गर्भधारण को रोकती हैं।",
+          "imageUrl": ""
+        },
+        "2. Sexually Transmitted Infections": {
+          "en": "Infections transmitted through sexual contact, some of which are completely curable if detected early.",
+          "hi": "यौन संपर्क के माध्यम से फैलने वाले संक्रमण, जिनमें से कुछ शुरुआती पहचान पर पूरी तरह से इलाज योग्य हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which of the following is a barrier method of contraception?", "options": ["Oral pills", "Copper-T", "Condoms", "Tubectomy"], "correctAnswer": "Condoms" },
+        { "question": "MTP stands for:", "options": ["Medical Termination of Pregnancy", "Multiple Transfer Process", "Maternal Transmission Path", "Medical Transfer Phase"], "correctAnswer": "Medical Termination of Pregnancy" },
+        { "question": "Which STI is caused by bacteria?", "options": ["AIDS", "Genital herpes", "Syphilis", "Hepatitis B"], "correctAnswer": "Syphilis" },
+        { "question": "Tubectomy involves surgical blocking of:", "options": ["Vas deferens", "Fallopian tubes", "Urethra", "Testis"], "correctAnswer": "Fallopian tubes" }
+      ],
+      "importantQuestions": [
+        { "question": "Why is reproductive health education important in schools?", "answer": "It provides awareness about STIs, safe sex practices, birth control, and discourages social myths." },
+        { "question": "Differentiate between vasectomy and tubectomy.", "answer": "Vasectomy ties/blocks the vas deferens in males; tubectomy blocks the fallopian tubes in females." },
+        { "question": "What are the common symptoms of STIs?", "answer": "Itching, fluid discharge, slight pain, or swelling in the genital region." },
+        { "question": "What are Amniocentesis tests used for?", "answer": "To detect chromosomal abnormalities and genetic disorders in the fetus (though misuse for sex determination is illegal)." }
+      ]
+    }
+  ]
+}
