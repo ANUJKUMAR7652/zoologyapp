@@ -1,0 +1,63 @@
+{
+  "className": "Class 3",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Eating Habits of Animals",
+      "notes": "Classification of animals based on their food habits (Herbivores, Carnivores, Omnivores).",
+      "headings": ["1. Feeding Categories", "2. Food Chain Basics"],
+      "theoryData": {
+        "1. Feeding Categories": {
+          "en": "Herbivores eat plants, carnivores eat flesh, and omnivores eat both plants and animals.",
+          "hi": "शाकाहारी पौधे खाते हैं, मांसाहारी मांस खाते हैं, और सर्वाहारी पौधे और जानवर दोनों खाते हैं।",
+          "imageUrl": ""
+        },
+        "2. Food Chain Basics": {
+          "en": "Shows who eats whom in nature, starting from producers to consumers.",
+          "hi": "प्रकृति में कौन किसे खाता है, यह दिखाता है, उत्पादकों से उपभोक्ताओं तक शुरू होता है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "A cow is classified as a:", "options": ["Herbivore", "Carnivore", "Omnivore", "Scavenger"], "correctAnswer": "Herbivore" },
+        { "question": "Which of these is a carnivore?", "options": ["Rabbit", "Lion", "Deer", "Elephant"], "correctAnswer": "Lion" },
+        { "question": "Animals that eat both plants and animals are called:", "options": ["Herbivores", "Omnivores", "Carnivores", "Parasites"], "correctAnswer": "Omnivores" },
+        { "question": "Which animal is an omnivore?", "options": ["Bear", "Cow", "Tiger", "Horse"], "correctAnswer": "Bear" }
+      ],
+      "importantQuestions": [
+        { "question": "What are herbivores? Give two examples.", "answer": "Animals that eat only plants (e.g., cow, goat, rabbit)." },
+        { "question": "Define carnivores with examples.", "answer": "Animals that eat the flesh of other animals (e.g., lion, tiger, wolf)." },
+        { "question": "What is an omnivore?", "answer": "An animal that eats both plant products and meat (e.g., bear, crow, human)." },
+        { "question": "Why do animals need food?", "answer": "To get energy for work, growth, and repair of body tissues." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Birds and Their Nests",
+      "notes": "Why birds build nests and different types of bird homes.",
+      "headings": ["1. Nesting Habits", "2. Bird Beaks and Claws"],
+      "theoryData": {
+        "1. Nesting Habits": {
+          "en": "Birds build nests using twigs, cotton, feathers, and grass to lay and hatch eggs safely.",
+          "hi": "पक्षी अंडे देने और सुरक्षित रूप से सेने के लिए टहनियों, कपास, पंखों और घास का उपयोग करके घोंसले बनाते हैं।",
+          "imageUrl": ""
+        },
+        "2. Bird Beaks and Claws": {
+          "en": "Beaks and claws are adapted according to the type of food birds eat.",
+          "hi": "चोंच और पंजे पक्षियों द्वारा खाए जाने वाले भोजन के प्रकार के अनुसार अनुकूलित होते हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which bird stitches leaves together to make its nest?", "options": ["Tailorbird", "Weaver bird", "Woodpecker", "Pigeon"], "correctAnswer": "Tailorbird" },
+        { "question": "Which bird weaves a hanging nest?", "options": ["Tailorbird", "Weaver bird", "Cuckoo", "Vulture"], "correctAnswer": "Weaver bird" },
+        { "question": "Cuckoos are famous for laying eggs in whose nest?", "options": ["Crow's nest", "Pigeon's nest", "Sparrow's nest", "Eagle's nest"], "correctAnswer": "Crow's nest" },
+        { "question": "Woodpeckers use their beaks to:", "options": ["Catch fish", "Drill holes in tree trunks", "Sip nectar", "Eat seeds"], "correctAnswer": "Drill holes in tree trunks" }
+      ],
+      "importantQuestions": [
+        { "question": "Why do birds build nests?", "answer": "To lay eggs safely and protect their young ones from predators and bad weather." },
+        { "question": "How does a tailorbird build its nest?", "answer": "By stitching broad leaves together using its beak as a needle." },
+        { "question": "Where does a woodpecker make its home?", "answer": "Inside holes drilled in tree trunks." },
+        { "question": "Name two materials used by birds to build nests.", "answer": "Twigs, grass, cotton, wool, and feathers." }
+      ]
+    }
+  ]
+}
