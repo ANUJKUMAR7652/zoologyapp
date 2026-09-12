@@ -1,0 +1,63 @@
+{
+  "className": "Class 4",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Animals and Their Young Ones",
+      "notes": "How animals reproduce and care for their young.",
+      "headings": ["1. Egg-laying Animals", "2. Mammals and Parental Care"],
+      "theoryData": {
+        "1. Egg-laying Animals": {
+          "en": "Birds, reptiles, and amphibians lay eggs from which young ones hatch.",
+          "hi": "पक्षी, सरीसृप और उभयचर अंडे देते हैं जिनसे बच्चे निकलते हैं।",
+          "imageUrl": ""
+        },
+        "2. Mammals and Parental Care": {
+          "en": "Mammals give birth to live babies and feed them milk.",
+          "hi": "स्तनधारी जीवित बच्चों को जन्म देते हैं और उन्हें दूध पिलाते हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "The yellow part inside a bird's egg is called:", "options": ["Albumen", "Yolk", "Shell", "Embryo"], "correctAnswer": "Yolk" },
+        { "question": "Which of the following is a mammal?", "options": ["Frog", "Snake", "Whale", "Crow"], "correctAnswer": "Whale" },
+        { "question": "The white fluid surrounding the yolk in an egg is:", "options": ["Albumen", "Yolk", "Plasma", "Cytoplasm"], "correctAnswer": "Albumen" },
+        { "question": "Animals that give birth to live young ones are:", "options": ["Oviparous", "Viviparous", "Amphibians", "Reptiles"], "correctAnswer": "Viviparous" }
+      ],
+      "importantQuestions": [
+        { "question": "What are mammals?", "answer": "Animals that give birth to live young ones, have hair/fur on skin, and feed them mother's milk." },
+        { "question": "Describe the parts of a bird's egg.", "answer": "Hard outer shell, white albumen, and central nutritious yellow yolk protecting the growing embryo." },
+        { "question": "Why do birds sit on their eggs?", "answer": "To keep the eggs warm so the embryos can develop properly into chicks." },
+        { "question": "Give examples of egg-laying animals.", "answer": "Birds, snakes, lizards, frogs, and fish." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Adaptations in Animals",
+      "notes": "How animals adapt to their natural habitats for survival.",
+      "headings": ["1. Terrestrial and Aquatic Habitats", "2. Camouflage"],
+      "theoryData": {
+        "1. Terrestrial and Aquatic Habitats": {
+          "en": "Animals develop special features to survive on land or underwater.",
+          "hi": "जानवर जमीन पर या पानी के अंदर जीवित रहने के लिए विशेष विशेषताएं विकसित करते हैं।",
+          "imageUrl": ""
+        },
+        "2. Camouflage": {
+          "en": "Blending with surroundings to hide from predators or prey.",
+          "hi": "शिकारियों या शिकार से छिपने के लिए परिवेश के साथ मिल जाना।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Camels have humps to store:", "options": ["Water", "Fat", "Air", "Food"], "correctAnswer": "Fat" },
+        { "question": "Gills are breathing organs for:", "options": ["Terrestrial animals", "Aquatic animals", "Aerial animals", "Arboreal animals"], "correctAnswer": "Aquatic animals" },
+        { "question": "Polar bears have a thick layer of fat called:", "options": ["Blubber", "Fur", "Scale", "Shell"], "correctAnswer": "Blubber" },
+        { "question": "An animal known for camouflage is:", "options": ["Lion", "Chameleon", "Elephant", "Horse"], "correctAnswer": "Chameleon" }
+      ],
+      "importantQuestions": [
+        { "question": "What is habitat?", "answer": "The natural home or environment of an animal, plant, or other organism." },
+        { "question": "Define camouflage with an example.", "answer": "Ability to blend into surroundings (e.g., chameleon or stick insect changing color/shape)." },
+        { "question": "How are fish adapted to aquatic life?", "answer": "Streamlined bodies, fins for swimming, and gills for breathing underwater." },
+        { "question": "Why do some birds migrate?", "answer": "To escape harsh winter conditions and find food and breeding sites." }
+      ]
+    }
+  ]
+}
