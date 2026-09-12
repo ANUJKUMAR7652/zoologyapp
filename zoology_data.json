@@ -1,50 +1,770 @@
 {
   "classes": [
     {
-      "className": "Class 11",
+      "className": "M.Sc. Zoology",
       "chapters": [
         {
-          "chapterTitle": "Chapter 1: Animal Kingdom Diversity",
-          "notes": "Detailed theory notes for animal kingdom...",
-          "headings": [
-            "1. Introduction & Basic Symmetry",
-            "2. Phylum Classification & Features"
-          ],
-         "theoryData": {
-  "1. Introduction & Basic Symmetry": {
-    "en": "Phylum Porifera includes multi-cellular organisms with cellular grade of organization.",
-    "hi": "संघ पोरिफेरा में कोशिकीय स्तर के संगठन वाले बहुकोशिकीय जीव शामिल हैं।",
-   "imageUrl": "https://raw.githubusercontent.com/ANUJKUMAR7652/zoologyapp/bfce366c0c4ba3bbca28972458f6986cea027ea5/porifera.jpg"
-  }
-},
+          "chapterTitle": "Chapter 1: Advanced Molecular Biology",
+          "notes": "In-depth analysis of DNA replication and transcription.",
+          "headings": ["1. DNA Replication Machinery"],
+          "theoryData": {
+            "1. DNA Replication Machinery": {
+              "en": "DNA replication is semi-conservative involving Helicase and DNA Polymerase.",
+              "hi": "डीएनए प्रतिकृति अर्ध-संरक्षी है जिसमें हेलिकेज और डीएनए पोलीमरेज़ शामिल हैं।",
+              "imageUrl": "https://raw.githubusercontent.com/ANUJKUMAR7652/zoologyapp/main/dna_rep.jpg"
+            }
+          },
           "mcqQuiz": [
             {
-              "question": "What is the basic unit of classification?",
-              "options": [
-                "Species",
-                "Genus",
-                "Family",
-                "Order"
-              ],
-              "correctAnswer": "Species"
-            },
-            {
-              "question": "True or False: Sponges have bilateral symmetry.",
-              "options": [
-                "True",
-                "False"
-              ],
-              "correctAnswer": "False"
+              "question": "Which enzyme primarily synthesizes the leading strand in eukaryotes?",
+              "options": ["DNA Pol alpha", "DNA Pol delta", "DNA Pol epsilon", "DNA Pol gamma"],
+              "correctAnswer": "DNA Pol epsilon"
             }
           ],
           "importantQuestions": [
             {
-              "question": "Explain the difference between Radial and Bilateral symmetry.",
-              "answer": "Radial symmetry means the animal can be divided into equal halves by any plane passing through the central axis. Bilateral symmetry means division into identical left and right halves in only one plane."
-            },
+              "question": "Describe the role of topoisomerase.",
+              "answer": "It relieves torsional strain ahead of the replication fork."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Advanced Genetics",
+          "notes": "Study of gene expression and regulation.",
+          "headings": ["1. Operon Concept"],
+          "theoryData": {
+            "1. Operon Concept": {
+              "en": "The operon is a functioning unit of DNA containing a cluster of genes.",
+              "hi": "ओपेरॉन डीएनए की एक कार्यशील इकाई है जिसमें जीन का एक समूह होता है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
             {
-              "question": "Why are animals classified?",
-              "answer": "Classification helps in understanding the relationship among different groups of animals and makes their study easier."
+              "question": "In the Lac operon, the repressor binds to?",
+              "options": ["Promoter", "Operator", "Structural gene", "Regulator"],
+              "correctAnswer": "Operator"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is the function of the Lac Operon?",
+              "answer": "It regulates the metabolism of lactose in bacteria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "UPSC Foundation",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Ecology and Environment",
+          "notes": "Core concepts for UPSC Zoology Optional.",
+          "headings": ["1. Trophic Levels & Energy Flow"],
+          "theoryData": {
+            "1. Trophic Levels & Energy Flow": {
+              "en": "Energy flow follows the 10% rule introduced by Lindeman.",
+              "hi": "ऊर्जा प्रवाह लिंडमैन द्वारा शुरू किए गए 10% नियम का पालन करता है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Energy transfer between trophic levels is typically?",
+              "options": ["1%", "10%", "50%", "100%"],
+              "correctAnswer": "10%"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is an ecological pyramid?",
+              "answer": "A graphical representation showing the relationship between different organisms in an ecosystem."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Evolution and Theories",
+          "notes": "Evolutionary biology concepts.",
+          "headings": ["1. Darwin's Theory of Natural Selection"],
+          "theoryData": {
+            "1. Darwin's Theory of Natural Selection": {
+              "en": "Natural selection is the differential survival and reproduction of individuals.",
+              "hi": "प्राकृतिक चयन व्यक्तियों के अंतर अस्तित्व और प्रजनन की प्रक्रिया है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Who proposed the theory of Natural Selection?",
+              "options": ["Lamarck", "Darwin", "Mendel", "Hugo de Vries"],
+              "correctAnswer": "Darwin"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "Define survival of the fittest.",
+              "answer": "Organisms best adjusted to their environment are the most successful in surviving and reproducing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "CSIR NET",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Cell Communication",
+          "notes": "Signal transduction pathways.",
+          "headings": ["1. G-Protein Coupled Receptors"],
+          "theoryData": {
+            "1. G-Protein Coupled Receptors": {
+              "en": "GPCRs act through heterotrimeric G proteins.",
+              "hi": "GPCR हेटरोट्रिमेरिक जी प्रोटीन के माध्यम से कार्य करते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "cAMP is synthesized by which enzyme?",
+              "options": ["Phospholipase C", "Adenylyl Cyclase", "Kinase", "Phosphatase"],
+              "correctAnswer": "Adenylyl Cyclase"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "Explain GPCR activation.",
+              "answer": "Ligand binding causes a conformational change leading to G-protein activation."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Developmental Biology",
+          "notes": "Embryogenesis and development patterns.",
+          "headings": ["1. Cleavage Patterns"],
+          "theoryData": {
+            "1. Cleavage Patterns": {
+              "en": "Cleavage is the series of rapid cell divisions following fertilization.",
+              "hi": "विखंडन निषेचन के बाद तेजी से कोशिका विभाजन की श्रृंखला है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Holoblastic cleavage occurs in?",
+              "options": ["Birds", "Insects", "Mammals", "Fish"],
+              "correctAnswer": "Mammals"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is gastrulation?",
+              "answer": "A phase where the single-layered blastula is reorganized into a multilayered structure known as the gastrula."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 12",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Human Reproduction",
+          "notes": "Study of male and female reproductive systems.",
+          "headings": ["1. Male Reproductive System"],
+          "theoryData": {
+            "1. Male Reproductive System": {
+              "en": "Includes testes, accessory ducts, and glands.",
+              "hi": "इसमें वृषण, सहायक नलिकाएं और ग्रंथियां शामिल हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Leydig cells secrete which hormone?",
+              "options": ["Testosterone", "Estrogen", "Progesterone", "Oxytocin"],
+              "correctAnswer": "Testosterone"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is spermatogenesis?",
+              "answer": "The process of sperm production in the testes."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Reproductive Health",
+          "notes": "Importance of reproductive health and methods.",
+          "headings": ["1. Birth Control Methods"],
+          "theoryData": {
+            "1. Birth Control Methods": {
+              "en": "Methods to prevent unwanted pregnancies.",
+              "hi": "अवांछित गर्भधारण को रोकने के तरीके।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Which of the following is an IUD?",
+              "options": ["Condom", "Copper-T", "Pills", "Diaphragm"],
+              "correctAnswer": "Copper-T"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "Why is reproductive health important?",
+              "answer": "It ensures safe motherhood and prevents sexually transmitted diseases."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 11",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Animal Kingdom",
+          "notes": "Classification of animals.",
+          "headings": ["1. Basis of Classification"],
+          "theoryData": {
+            "1. Basis of Classification": {
+              "en": "Animals are classified based on symmetry, coelom, and notochord.",
+              "hi": "जानवरों को समरूपता, सीलोम और नोटोकॉर्ड के आधार पर वर्गीकृत किया जाता है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Sponges belong to which phylum?",
+              "options": ["Cnidaria", "Porifera", "Annelida", "Mollusca"],
+              "correctAnswer": "Porifera"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is bilateral symmetry?",
+              "answer": "Body can be divided into identical left and right halves in only one plane."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Structural Organisation in Animals",
+          "notes": "Animal tissues and morphology.",
+          "headings": ["1. Epithelial Tissue"],
+          "theoryData": {
+            "1. Epithelial Tissue": {
+              "en": "This tissue provides a covering or lining for some parts of the body.",
+              "hi": "यह ऊतक शरीर के कुछ हिस्सों के लिए एक आवरण या अस्तर प्रदान करता है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Blood is a type of?",
+              "options": ["Epithelial tissue", "Connective tissue", "Muscular tissue", "Neural tissue"],
+              "correctAnswer": "Connective tissue"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is the function of nervous tissue?",
+              "answer": "It controls the body's responses to changing conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 10",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Life Processes",
+          "notes": "Nutrition, respiration, transportation, and excretion.",
+          "headings": ["1. Nutrition in Humans"],
+          "theoryData": {
+            "1. Nutrition in Humans": {
+              "en": "Digestion begins in the mouth and ends in the small intestine.",
+              "hi": "पाचन मुंह में शुरू होता है और छोटी आंत में समाप्त होता है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Bile juice is secreted by?",
+              "options": ["Stomach", "Pancreas", "Liver", "Intestine"],
+              "correctAnswer": "Liver"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What are life processes?",
+              "answer": "The basic functions performed by living organisms to maintain their life."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Control and Coordination",
+          "notes": "Nervous system and hormones.",
+          "headings": ["1. Human Nervous System"],
+          "theoryData": {
+            "1. Human Nervous System": {
+              "en": "It consists of the brain, spinal cord, and nerves.",
+              "hi": "इसमें मस्तिष्क, रीढ़ की हड्डी और नसें शामिल हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "The gap between two neurons is called?",
+              "options": ["Dendrite", "Synapse", "Axon", "Impulse"],
+              "correctAnswer": "Synapse"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is a reflex action?",
+              "answer": "An involuntary and sudden response to a stimulus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 9",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: The Fundamental Unit of Life",
+          "notes": "Study of cells.",
+          "headings": ["1. Cell Structure"],
+          "theoryData": {
+            "1. Cell Structure": {
+              "en": "Cell is the structural and functional unit of life.",
+              "hi": "कोशिका जीवन की संरचनात्मक और कार्यात्मक इकाई है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Who discovered the cell?",
+              "options": ["Robert Hooke", "Leeuwenhoek", "Darwin", "Mendel"],
+              "correctAnswer": "Robert Hooke"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "Why is mitochondria known as the powerhouse of the cell?",
+              "answer": "Because it generates most of the chemical energy needed to power the cell's reactions."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Tissues",
+          "notes": "Plant and animal tissues.",
+          "headings": ["1. Plant Tissues"],
+          "theoryData": {
+            "1. Plant Tissues": {
+              "en": "Divided into meristematic and permanent tissues.",
+              "hi": "विभज्योतक और स्थायी ऊतकों में विभाजित।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Which tissue is responsible for water transport in plants?",
+              "options": ["Phloem", "Xylem", "Parenchyma", "Collenchyma"],
+              "correctAnswer": "Xylem"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is a tissue?",
+              "answer": "A group of cells similar in structure and function."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 8",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Reproduction in Animals",
+          "notes": "Asexual and sexual reproduction.",
+          "headings": ["1. Sexual Reproduction"],
+          "theoryData": {
+            "1. Sexual Reproduction": {
+              "en": "Involves the fusion of male and female gametes.",
+              "hi": "इसमें नर और मादा युग्मकों का संलयन शामिल है।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "The fusion of sperm and egg is called?",
+              "options": ["Pollination", "Fertilization", "Budding", "Fission"],
+              "correctAnswer": "Fertilization"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is metamorphosis?",
+              "answer": "The drastic change of form during the life cycle of an animal (e.g., frog)."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Cell - Structure and Functions",
+          "notes": "Basic cell components.",
+          "headings": ["1. Parts of a Cell"],
+          "theoryData": {
+            "1. Parts of a Cell": {
+              "en": "Includes cell membrane, cytoplasm, and nucleus.",
+              "hi": "इसमें कोशिका झिल्ली, कोशिका द्रव्य और केंद्रक शामिल हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "The control center of the cell is?",
+              "options": ["Nucleus", "Vacuole", "Mitochondria", "Plastid"],
+              "correctAnswer": "Nucleus"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is cytoplasm?",
+              "answer": "The jelly-like substance present between the cell membrane and the nucleus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 7",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Nutrition in Animals",
+          "notes": "Digestion process.",
+          "headings": ["1. The Human Digestive System"],
+          "theoryData": {
+            "1. The Human Digestive System": {
+              "en": "Consists of the alimentary canal and secretory glands.",
+              "hi": "इसमें आहार नाल और स्रावी ग्रंथियां शामिल हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Water from undigested food is absorbed mainly in the?",
+              "options": ["Stomach", "Food pipe", "Small intestine", "Large intestine"],
+              "correctAnswer": "Large intestine"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What are villi?",
+              "answer": "Finger-like outgrowths in the inner walls of the small intestine."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Respiration in Organisms",
+          "notes": "Breathing and cellular respiration.",
+          "headings": ["1. Breathing"],
+          "theoryData": {
+            "1. Breathing": {
+              "en": "Taking in oxygen-rich air and giving out carbon dioxide-rich air.",
+              "hi": "ऑक्सीजन युक्त हवा अंदर लेना और कार्बन डाइऑक्साइड युक्त हवा बाहर निकालना।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "In cockroaches, air enters the body through?",
+              "options": ["Lungs", "Gills", "Spiracles", "Skin"],
+              "correctAnswer": "Spiracles"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "Why do we breathe?",
+              "answer": "To get oxygen, which breaks down food to release energy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 6",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Components of Food",
+          "notes": "Nutrients required by the body.",
+          "headings": ["1. Nutrients"],
+          "theoryData": {
+            "1. Nutrients": {
+              "en": "Food contains carbohydrates, proteins, fats, vitamins, and minerals.",
+              "hi": "भोजन में कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन और खनिज होते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Deficiency of Vitamin C causes?",
+              "options": ["Scurvy", "Rickets", "Beriberi", "Night blindness"],
+              "correctAnswer": "Scurvy"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is a balanced diet?",
+              "answer": "A diet that contains all essential nutrients in the right proportions."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Body Movements",
+          "notes": "Bones and joints.",
+          "headings": ["1. Types of Joints"],
+          "theoryData": {
+            "1. Types of Joints": {
+              "en": "Joints allow us to bend or rotate our body.",
+              "hi": "जोड़ हमें अपने शरीर को मोड़ने या घुमाने की अनुमति देते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Which joint allows movement in all directions?",
+              "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Fixed joint"],
+              "correctAnswer": "Ball and socket joint"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is a skeleton?",
+              "answer": "The framework of bones in our body."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 5",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Animals and Their Senses",
+          "notes": "How animals perceive the world.",
+          "headings": ["1. Super Senses"],
+          "theoryData": {
+            "1. Super Senses": {
+              "en": "Animals like dogs and eagles have highly developed senses.",
+              "hi": "कुत्तों और चील जैसे जानवरों की इंद्रियां अत्यधिक विकसित होती हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Which animal can find you by the smell of your body?",
+              "options": ["Mosquito", "Tiger", "Elephant", "Snake"],
+              "correctAnswer": "Mosquito"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "How do ants recognize their friends?",
+              "answer": "By their smell."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: A Snake Charmer's Story",
+          "notes": "Relation between animals and humans.",
+          "headings": ["1. Poisonous Snakes"],
+          "theoryData": {
+            "1. Poisonous Snakes": {
+              "en": "Only four types of snakes are poisonous in India.",
+              "hi": "भारत में केवल चार प्रकार के सांप जहरीले होते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Which of these is a poisonous snake?",
+              "options": ["Python", "Cobra", "Rat snake", "Water snake"],
+              "correctAnswer": "Cobra"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "Are all snakes poisonous?",
+              "answer": "No, most snakes are non-poisonous."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 4",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Animals and Their Young Ones",
+          "notes": "Reproduction basics.",
+          "headings": ["1. Egg Laying Animals"],
+          "theoryData": {
+            "1. Egg Laying Animals": {
+              "en": "Birds, reptiles, and insects lay eggs.",
+              "hi": "पक्षी, सरीसृप और कीड़े अंडे देते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "The yellow part inside a bird's egg is called?",
+              "options": ["Albumen", "Yolk", "Shell", "Embryo"],
+              "correctAnswer": "Yolk"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What are mammals?",
+              "answer": "Animals that give birth to live young ones and feed them milk."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Adaptations in Animals",
+          "notes": "How animals survive in habitats.",
+          "headings": ["1. Habitats"],
+          "theoryData": {
+            "1. Habitats": {
+              "en": "Animals adapt to terrestrial, aquatic, or aerial habitats.",
+              "hi": "जानवर स्थलीय, जलीय या हवाई आवासों के अनुकूल होते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Camels are adapted to live in?",
+              "options": ["Forests", "Water", "Deserts", "Mountains"],
+              "correctAnswer": "Deserts"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is camouflage?",
+              "answer": "The ability of an animal to blend in with its surroundings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 3",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Eating Habits of Animals",
+          "notes": "Herbivores, Carnivores, Omnivores.",
+          "headings": ["1. Types of Animals"],
+          "theoryData": {
+            "1. Types of Animals": {
+              "en": "Animals eat different types of food.",
+              "hi": "जानवर अलग-अलग तरह का खाना खाते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "A cow is a?",
+              "options": ["Carnivore", "Herbivore", "Omnivore", "Scavenger"],
+              "correctAnswer": "Herbivore"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What are carnivores?",
+              "answer": "Animals that eat only the flesh of other animals."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Birds and Their Nests",
+          "notes": "How birds live.",
+          "headings": ["1. Bird Nests"],
+          "theoryData": {
+            "1. Bird Nests": {
+              "en": "Birds build nests to lay eggs.",
+              "hi": "पक्षी अंडे देने के लिए घोंसले बनाते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Which bird stitches leaves to make a nest?",
+              "options": ["Weaver bird", "Tailor bird", "Woodpecker", "Pigeon"],
+              "correctAnswer": "Tailor bird"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "Why do birds build nests?",
+              "answer": "To keep their eggs and young ones safe and warm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "className": "Class 2",
+      "chapters": [
+        {
+          "chapterTitle": "Chapter 1: Domestic and Wild Animals",
+          "notes": "Basic animal categories.",
+          "headings": ["1. Where Animals Live"],
+          "theoryData": {
+            "1. Where Animals Live": {
+              "en": "Some animals live in jungles, others live with us.",
+              "hi": "कुछ जानवर जंगलों में रहते हैं, अन्य हमारे साथ रहते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "Which of these is a wild animal?",
+              "options": ["Cow", "Dog", "Lion", "Sheep"],
+              "correctAnswer": "Lion"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What are pet animals?",
+              "answer": "Animals we keep in our homes for fun and companionship."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Useful Animals",
+          "notes": "How animals help us.",
+          "headings": ["1. Things we get from animals"],
+          "theoryData": {
+            "1. Things we get from animals": {
+              "en": "Animals give us milk, eggs, and wool.",
+              "hi": "जानवर हमें दूध, अंडे और ऊन देते हैं।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
+            {
+              "question": "We get wool from?",
+              "options": ["Cow", "Sheep", "Hen", "Dog"],
+              "correctAnswer": "Sheep"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "Name two animals that give us milk.",
+              "answer": "Cow and Buffalo."
             }
           ]
         }
@@ -54,47 +774,52 @@
       "className": "Class 1",
       "chapters": [
         {
-          "chapterTitle": "Chapter 1: anuj",
-          "notes": "Detailed theory notes for animal kingdom...",
-          "headings": [
-            "1. Introduction & Basic Symmetry",
-            "2. Phylum Classification & Features"
-          ],
+          "chapterTitle": "Chapter 1: Animals Around Us",
+          "notes": "Recognizing animals.",
+          "headings": ["1. Big and Small Animals"],
           "theoryData": {
-  "1. Introduction & Basic Symmetry": {
-    "en": "Phylum Porifera includes multi-cellular organisms with cellular grade of organization.",
-    "hi": "संघ पोरिफेरा में कोशिकीय स्तर के संगठन वाले बहुकोशिकीय जीव शामिल हैं।",
-    "imageUrl": "https://raw.githubusercontent.com/ANUJKUMAR7652/zoologyapp/bfce366c0c4ba3bbca28972458f6986cea027ea5/porifera.jpg"
-  }
-},
+            "1. Big and Small Animals": {
+              "en": "Elephants are big, mice are small.",
+              "hi": "हाथी बड़े होते हैं, चूहे छोटे होते हैं।",
+              "imageUrl": ""
+            }
+          },
           "mcqQuiz": [
             {
-              "question": "What is the basic unit of classification?",
-              "options": [
-                "Species",
-                "Genus",
-                "Family",
-                "Order"
-              ],
-              "correctAnswer": "Species"
-            },
-            {
-              "question": "True or False: Sponges have bilateral symmetry.",
-              "options": [
-                "True",
-                "False"
-              ],
-              "correctAnswer": "False"
+              "question": "Which animal has a long trunk?",
+              "options": ["Lion", "Elephant", "Cat", "Dog"],
+              "correctAnswer": "Elephant"
             }
           ],
           "importantQuestions": [
             {
-              "question": "Explain the difference between Radial and Bilateral symmetry.",
-              "answer": "Radial symmetry means the animal can be divided into equal halves by any plane passing through the central axis. Bilateral symmetry means division into identical left and right halves in only one plane."
-            },
+              "question": "Name a small animal.",
+              "answer": "A mouse."
+            }
+          ]
+        },
+        {
+          "chapterTitle": "Chapter 2: Food and Shelter",
+          "notes": "Animal homes.",
+          "headings": ["1. Animal Homes"],
+          "theoryData": {
+            "1. Animal Homes": {
+              "en": "Birds live in nests, lions in dens.",
+              "hi": "पक्षी घोंसले में रहते हैं, शेर मांद में।",
+              "imageUrl": ""
+            }
+          },
+          "mcqQuiz": [
             {
-              "question": "Why are animals classified?",
-              "answer": "Classification helps in understanding the relationship among different groups of animals and makes their study easier."
+              "question": "Where does a dog live?",
+              "options": ["Shed", "Kennel", "Coop", "Den"],
+              "correctAnswer": "Kennel"
+            }
+          ],
+          "importantQuestions": [
+            {
+              "question": "What is the home of a lion called?",
+              "answer": "A den."
             }
           ]
         }
