@@ -1,0 +1,63 @@
+{
+  "className": "M.Sc. Zoology",
+  "chapters": [
+    {
+      "chapterTitle": "Chapter 1: Advanced Molecular Biology",
+      "notes": "In-depth analysis of DNA replication and transcription.",
+      "headings": ["1. DNA Replication Machinery", "2. RNA Processing"],
+      "theoryData": {
+        "1. DNA Replication Machinery": {
+          "en": "DNA replication is semi-conservative involving Helicase and DNA Polymerase.",
+          "hi": "डीएनए प्रतिकृति अर्ध-संरक्षी है जिसमें हेलिकेज और डीएनए पोलीमरेज़ शामिल हैं।",
+          "imageUrl": "https://raw.githubusercontent.com/ANUJKUMAR7652/zoologyapp/main/dna_rep.jpg"
+        },
+        "2. RNA Processing": {
+          "en": "Capping, polyadenylation, and splicing occur during mRNA maturation.",
+          "hi": "एमआरएनए परिपक्वता के दौरान कैपिंग, पॉलीएडेनाइलेशन और स्प्लिसिंग होती है।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "Which enzyme primarily synthesizes the leading strand in eukaryotes?", "options": ["DNA Pol alpha", "DNA Pol delta", "DNA Pol epsilon", "DNA Pol gamma"], "correctAnswer": "DNA Pol epsilon" },
+        { "question": "What is the function of DNA helicase?", "options": ["Unwinds DNA duplex", "Joins Okazaki fragments", "Synthesizes primer", "Supercoils DNA"], "correctAnswer": "Unwinds DNA duplex" },
+        { "question": "Which RNA modification protects mRNA from degradation?", "options": ["Poly-A tail", "Intron splicing", "5' Capping", "Both A and C"], "correctAnswer": "Both A and C" },
+        { "question": "Okazaki fragments are synthesized on which strand?", "options": ["Leading strand", "Lagging strand", "Coding strand", "Template strand"], "correctAnswer": "Lagging strand" }
+      ],
+      "importantQuestions": [
+        { "question": "Describe the role of topoisomerase in DNA replication.", "answer": "Topoisomerase relieves the torsional strain created ahead of the replication fork by breaking and rejoining DNA strands." },
+        { "question": "Explain the significance of the 5' cap in eukaryotic mRNA.", "answer": "It protects the mRNA from exonucleases and assists in ribosome binding during translation initiation." },
+        { "question": "What are the differences between DNA polymerase alpha and delta?", "answer": "DNA Pol alpha primes DNA synthesis with RNA, while DNA Pol delta elongates the lagging strand processively." },
+        { "question": "Define transcription bubble.", "answer": "The region of locally unwound DNA where transcription takes place, catalyzed by RNA polymerase." }
+      ]
+    },
+    {
+      "chapterTitle": "Chapter 2: Advanced Genetics",
+      "notes": "Study of gene expression, regulation, and mutations.",
+      "headings": ["1. Operon Concept", "2. Genetic Mutations"],
+      "theoryData": {
+        "1. Operon Concept": {
+          "en": "The operon is a functioning unit of DNA containing a cluster of genes under a common promoter.",
+          "hi": "ओपेरॉन डीएनए की एक कार्यशील इकाई है जिसमें एक सामान्य प्रमोटर के तहत जीन का एक समूह होता है।",
+          "imageUrl": ""
+        },
+        "2. Genetic Mutations": {
+          "en": "Mutations are permanent alterations in the nucleotide sequence of the genome.",
+          "hi": "उत्परिवर्तन जीनोम के न्यूक्लियोटाइड अनुक्रम में स्थायी परिवर्तन हैं।",
+          "imageUrl": ""
+        }
+      },
+      "mcqQuiz": [
+        { "question": "In the Lac operon, the repressor binds to which site?", "options": ["Promoter", "Operator", "Structural gene", "Regulator gene"], "correctAnswer": "Operator" },
+        { "question": "Which mutation type results in a stop codon prematurely?", "options": ["Missense", "Nonsense", "Silent", "Frameshift"], "correctAnswer": "Nonsense" },
+        { "question": "The trp operon is regulated by which mechanism?", "options": ["Induction only", "Repression and attenuation", "Enhancer binding", "Polyadenylation"], "correctAnswer": "Repression and attenuation" },
+        { "question": "Transition mutation involves substitution of:", "options": ["Purine for pyrimidine", "Purine for purine", "Deletion of base", "Insertion of base"], "correctAnswer": "Purine for purine" }
+      ],
+      "importantQuestions": [
+        { "question": "What is the function of the Lac Operon?", "answer": "It regulates the uptake and metabolism of lactose in bacteria like E. coli." },
+        { "question": "Explain frame-shift mutation with an example.", "answer": "Insertion or deletion of nucleotides not in multiples of three, altering the downstream reading frame." },
+        { "question": "How does attenuation work in trp operon?", "answer": "It controls transcription termination based on the concentration of charged tRNA-Trp in the cell." },
+        { "question": "Differentiate between transition and transversion mutations.", "answer": "Transition replaces purine-pyrimidine with its own kind, while transversion swaps a purine for a pyrimidine or vice versa." }
+      ]
+    }
+  ]
+}
