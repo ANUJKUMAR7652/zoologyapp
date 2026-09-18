@@ -4,7 +4,11 @@
     {
       "chapterTitle": "Chapter 1: Reproduction in Animals",
       "notes": "Sexual and asexual reproduction methods in animals.",
-      "headings": ["1. Modes of Reproduction", "2. Metamorphosis"],
+      "masterNotes": "Sexual and asexual reproduction methods. Secret Trick: Remember Amoeba (Binary Fission) and Hydra (Budding).",
+      "headings": [
+        "1. Modes of Reproduction",
+        "2. Metamorphosis"
+      ],
       "theoryData": {
         "1. Modes of Reproduction": {
           "en": "Animals reproduce either sexually (fusion of gametes) or asexually (single parent).",
@@ -33,7 +37,11 @@
     {
       "chapterTitle": "Chapter 2: Cell - Structure and Functions",
       "notes": "Basic components of animal and plant cells.",
-      "headings": ["1. Parts of Cell", "2. Cell Shape and Size"],
+      "masterNotes": "Key Concept: Nucleus is the brain of the cell. Remember: Protoplasm = Cytoplasm + Nucleus. Plant cells have an extra 'Cell Wall' for rigidity against wind/rain.",
+      "headings": [
+        "1. Parts of Cell",
+        "2. Cell Shape and Size"
+      ],
       "theoryData": {
         "1. Parts of Cell": {
           "en": "Main components include cell membrane, cytoplasm, and nucleus.",
