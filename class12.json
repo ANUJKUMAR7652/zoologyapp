@@ -60,4 +60,88 @@
       ]
     }
   ]
-}
+},
+{
+    "className": "Class 12",
+    "chapters": [
+      {
+        "chapterTitle": "Chapter 1: Human Reproduction",
+        "notes": "Male and female reproductive systems, gametogenesis, and embryonic development.",
+        "masterNotes": "<b><font color='#EAB308'>Secret Trick:</font></b> Sperm path: SEVEN UP (Seminiferous tubules, Epididymis, Vas deferens, Ejaculatory duct, Urethra, Penis).<br><br><b>Key Point:</b> Fertilization occurs in the <font color='#3B82F6'>Ampulla</font> of the fallopian tube.",
+        "headings": [
+          "1. Male Reproductive System",
+          "2. Female Reproductive System",
+          "3. Menstrual Cycle"
+        ],
+        "theoryData": {
+          "1. Male Reproductive System": {
+            "en": "Includes a pair of testes in the scrotum, accessory ducts, glands, and the external genitalia.",
+            "hi": "इसमें वृषण कोष में वृषण की एक जोड़ी, सहायक नलिकाएं, ग्रंथियां और बाहरी जननांग शामिल हैं।",
+            "imageUrl": ""
+          },
+          "2. Female Reproductive System": {
+            "en": "Consists of a pair of ovaries, oviducts (fallopian tubes), uterus, cervix, vagina, and external genitalia.",
+            "hi": "इसमें अंडाशय, अंडवाहिनी (फैलोपियन ट्यूब), गर्भाशय, गर्भाशय ग्रीवा, योनि और बाहरी जननांगों की एक जोड़ी होती है।",
+            "imageUrl": ""
+          },
+          "3. Menstrual Cycle": {
+            "en": "The reproductive cycle in female primates, regulated by LH, FSH, estrogen, and progesterone.",
+            "hi": "मादा प्राइमेट्स में प्रजनन चक्र, जो LH, FSH, एस्ट्रोजन और प्रोजेस्टेरोन द्वारा नियंत्रित होता है।",
+            "imageUrl": ""
+          }
+        },
+        "mcqQuiz": [
+          { "question": "The site of fertilization in human female is:", "options": ["Uterus", "Cervix", "Ampulla", "Vagina"], "correctAnswer": "Ampulla" },
+          { "question": "Which hormone triggers ovulation?", "options": ["FSH", "LH surge", "Progesterone", "Oxytocin"], "correctAnswer": "LH surge" },
+          { "question": "Leydig cells secrete:", "options": ["Testosterone", "Estrogen", "Progesterone", "FSH"], "correctAnswer": "Testosterone" },
+          { "question": "The inner glandular layer of the uterus is:", "options": ["Perimetrium", "Myometrium", "Endometrium", "Ectometrium"], "correctAnswer": "Endometrium" }
+        ],
+        "importantQuestions": [
+          { "question": "Describe the structure of a human sperm.", "answer": "It consists of a head (containing haploid nucleus and acrosome), a middle piece (packed with mitochondria for energy), and a long tail for motility." },
+          { "question": "What is the function of the placenta?", "answer": "It facilitates the supply of oxygen and nutrients to the embryo and removes carbon dioxide and excretory materials. It also acts as an endocrine tissue producing hormones like hCG." },
+          { "question": "Differentiate between spermatogenesis and oogenesis.", "answer": "Spermatogenesis is the production of sperm in testes (continuous process). Oogenesis is the production of ova in ovaries (discontinuous process, starts before birth)." },
+          { "question": "Explain the role of hormones in the menstrual cycle.", "answer": "FSH stimulates follicle growth; Estrogen repairs the endometrium; LH surge causes ovulation; Progesterone (from corpus luteum) maintains the endometrium for pregnancy." }
+        ]
+      },
+      {
+        "chapterTitle": "Chapter 2: Principles of Inheritance and Variation",
+        "notes": "Mendelian genetics, chromosomal disorders, and inheritance patterns.",
+        "masterNotes": "<b><font color='#EAB308'>Secret Trick:</font></b> Law of Segregation has NO exceptions.<br><br><b>Key Point:</b> Human male acts as the <font color='#22C55E'>heterogametic</font> sex (XY), determining the sex of the baby.",
+        "headings": [
+          "1. Mendel's Laws of Inheritance",
+          "2. Sex Determination",
+          "3. Genetic Disorders"
+        ],
+        "theoryData": {
+          "1. Mendel's Laws of Inheritance": {
+            "en": "Includes Law of Dominance, Law of Segregation, and Law of Independent Assortment.",
+            "hi": "इसमें प्रभाविता का नियम, पृथक्करण का नियम और स्वतंत्र अपव्यूहन का नियम शामिल हैं।",
+            "imageUrl": ""
+          },
+          "2. Sex Determination": {
+            "en": "In humans, females are XX and males are XY. The Y chromosome bears the SRY gene for maleness.",
+            "hi": "मनुष्यों में, महिलाएं XX होती हैं और पुरुष XY होते हैं। Y गुणसूत्र में पुरुषत्व के लिए SRY जीन होता है।",
+            "imageUrl": ""
+          },
+          "3. Genetic Disorders": {
+            "en": "Mendelian disorders (e.g., Sickle-cell anemia) and Chromosomal disorders (e.g., Down's syndrome).",
+            "hi": "मेंडेलियन विकार (जैसे, सिकल-सेल एनीमिया) और गुणसूत्र संबंधी विकार (जैसे, डाउन सिंड्रोम)।",
+            "imageUrl": ""
+          }
+        },
+        "mcqQuiz": [
+          { "question": "The phenotypic ratio of a typical Mendelian dihybrid cross is:", "options": ["3:1", "1:2:1", "9:3:3:1", "1:1:1:1"], "correctAnswer": "9:3:3:1" },
+          { "question": "Down's syndrome is caused by an extra copy of chromosome number:", "options": ["21", "18", "13", "X"], "correctAnswer": "21" },
+          { "question": "ABO blood grouping is an example of:", "options": ["Incomplete dominance", "Multiple allelism and Co-dominance", "Pleiotropy", "Polygenic inheritance"], "correctAnswer": "Multiple allelism and Co-dominance" },
+          { "question": "A person with Turner's syndrome has the chromosome complement:", "options": ["44 + XXY", "44 + XYY", "44 + XO", "44 + XXX"], "correctAnswer": "44 + XO" }
+        ],
+        "importantQuestions": [
+          { "question": "Explain the Law of Segregation.", "answer": "During gamete formation, the alleles of a pair segregate from each other such that a gamete receives only one of the two factors. Gametes are always pure for a trait." },
+          { "question": "What is co-dominance? Give an example.", "answer": "A condition where both alleles in a heterozygote fully express themselves. Example: ABO blood types in humans where IA and IB alleles are co-dominant." },
+          { "question": "How is sex determined in human beings?", "answer": "Females produce only X-bearing eggs. Males produce X and Y-bearing sperms. If an X-sperm fertilizes the egg, it's a girl (XX). If a Y-sperm fertilizes the egg, it's a boy (XY)." },
+          { "question": "Differentiate between Turner's syndrome and Klinefelter's syndrome.", "answer": "Turner's (45, XO) occurs in females lacking one X chromosome (sterile, short stature). Klinefelter's (47, XXY) occurs in males with an extra X chromosome (sterile, feminine features like gynecomastia)." }
+        ]
+      }
+    ]
+  }
+]
