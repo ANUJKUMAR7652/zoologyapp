@@ -58,6 +58,76 @@
         { "question": "Name the master gland and explain why.", "answer": "Pituitary gland, because it regulates the activity of other endocrine glands." },
         { "question": "What is the role of the cerebrum?", "answer": "It is the main thinking and sensory center of the human brain." }
       ]
-    }
+    }[
+  {
+    "className": "Class 10",
+    "chapters": [
+      {
+        "chapterTitle": "Chapter 1: Life Processes",
+        "notes": "Basic essential functions performed by living organisms to maintain life.",
+        "masterNotes": "<b><font color='#EAB308'>Secret Trick:</font></b> Remember MR NERC (Movement, Respiration, Nutrition, Excretion, Reproduction, Control).<br><br><b>Key Point:</b> <font color='#3B82F6'>Hemoglobin</font> is the respiratory pigment in human beings.",
+        "headings": [
+          "1. Nutrition in Humans",
+          "2. Respiration"
+        ],
+        "theoryData": {
+          "1. Nutrition in Humans": {
+            "en": "Human digestive system consists of the alimentary canal and associated glands like liver and pancreas.",
+            "hi": "मानव पाचन तंत्र में आहार नली और यकृत तथा अग्न्याशय जैसी संबद्ध ग्रंथियां शामिल होती हैं।",
+            "imageUrl": ""
+          },
+          "2. Respiration": {
+            "en": "Breakdown of glucose to release energy. In humans, it occurs in the alveoli of the lungs.",
+            "hi": "ऊर्जा छोड़ने के लिए ग्लूकोज का टूटना। मनुष्यों में, यह फेफड़ों की कूपिकाओं (alveoli) में होता है।",
+            "imageUrl": ""
+          }
+        },
+        "mcqQuiz": [
+          { "question": "The breakdown of pyruvate to give carbon dioxide, water and energy takes place in:", "options": ["Cytoplasm", "Mitochondria", "Chloroplast", "Nucleus"], "correctAnswer": "Mitochondria" },
+          { "question": "The respiratory pigment in human beings is:", "options": ["Carotene", "Chlorophyll", "Hemoglobin", "Mitochondria"], "correctAnswer": "Hemoglobin" },
+          { "question": "Which enzyme is present in human saliva?", "options": ["Pepsin", "Trypsin", "Amylase", "Lipase"], "correctAnswer": "Amylase" },
+          { "question": "The functional unit of the human kidney is:", "options": ["Nephron", "Neuron", "Alveoli", "Villi"], "correctAnswer": "Nephron" }
+        ],
+        "importantQuestions": [
+          { "question": "What are the differences between aerobic and anaerobic respiration?", "answer": "Aerobic respiration needs oxygen and produces 38 ATP. Anaerobic respiration occurs without oxygen and produces 2 ATP along with lactic acid or ethanol." },
+          { "question": "Explain the role of saliva in the digestion of food.", "answer": "Saliva contains salivary amylase which breaks down complex starch into simple sugars. It also moistens food for easy swallowing." },
+          { "question": "What is the role of acid in our stomach?", "answer": "Hydrochloric acid (HCl) creates an acidic medium which facilitates the action of the enzyme pepsin and kills harmful bacteria." },
+          { "question": "How are alveoli designed to maximize the exchange of gases?", "answer": "Alveoli are balloon-like structures that provide a large surface area and have a rich supply of blood vessels for efficient gas exchange." }
+        ]
+      },
+      {
+        "chapterTitle": "Chapter 2: Control and Coordination",
+        "notes": "Nervous and endocrine systems in human beings.",
+        "masterNotes": "<b><font color='#EAB308'>Secret Trick:</font></b> Cereb<font color='#22C55E'>LL</font>um = Ba<font color='#22C55E'>L</font>ance. Cereb<font color='#3B82F6'>R</font>um = Memo<font color='#3B82F6'>R</font>y.<br><br><b>Key Point:</b> Reflex actions are controlled by the spinal cord.",
+        "headings": [
+          "1. Human Brain",
+          "2. Hormones in Animals"
+        ],
+        "theoryData": {
+          "1. Human Brain": {
+            "en": "The brain is divided into fore-brain, mid-brain, and hind-brain. Fore-brain is the main thinking part.",
+            "hi": "मस्तिष्क को अग्रमस्तिष्क, मध्य मस्तिष्क और पश्च मस्तिष्क में विभाजित किया गया है। अग्रमस्तिष्क मुख्य सोचने वाला भाग है।",
+            "imageUrl": ""
+          },
+          "2. Hormones in Animals": {
+            "en": "Chemical messengers secreted by endocrine glands directly into the blood, e.g., Adrenaline, Insulin.",
+            "hi": "अंतःस्रावी ग्रंथियों द्वारा सीधे रक्त में स्रावित रासायनिक संदेशवाहक, उदाहरण के लिए, एड्रेनालाईन, इंसुलिन।",
+            "imageUrl": ""
+          }
+        },
+        "mcqQuiz": [
+          { "question": "The gap between two neurons is called a:", "options": ["Dendrite", "Synapse", "Axon", "Impulse"], "correctAnswer": "Synapse" },
+          { "question": "Which part of the brain controls posture and balance?", "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"], "correctAnswer": "Cerebellum" },
+          { "question": "Iodine is necessary for the synthesis of which hormone?", "options": ["Adrenaline", "Thyroxine", "Auxin", "Insulin"], "correctAnswer": "Thyroxine" },
+          { "question": "Which gland is known as the master gland?", "options": ["Pituitary", "Adrenal", "Thyroid", "Pancreas"], "correctAnswer": "Pituitary" }
+        ],
+        "importantQuestions": [
+          { "question": "What is a synapse?", "answer": "It is the microscopic gap between a pair of adjacent neurons over which nerve impulses pass via neurotransmitters." },
+          { "question": "What happens at the synapse between two neurons?", "answer": "An electrical impulse triggers the release of neurotransmitters at the axon terminal, which cross the synapse to start a similar electrical impulse in the next neuron." },
+          { "question": "Why is the use of iodized salt advisable?", "answer": "Iodine is essential for the thyroid gland to produce thyroxine hormone, which regulates carbohydrate, protein, and fat metabolism. Deficiency causes goiter." },
+          { "question": "How does our body respond when adrenaline is secreted?", "answer": "Heartbeats faster, breathing rate increases, and blood supply to muscles increases, preparing the body for a 'fight or flight' response." }
+        ]
+      }
+    ]
   ]
 }
